@@ -55,8 +55,8 @@
 /****************************************************************************/
 /***        Type Definitions                                              ***/
 /****************************************************************************/
-#define UartCommandBuffer		5
-#define UartPacketLengthMax		30
+#define UartCommandBuffer		2
+#define UartPacketLengthMax		20
 /****************************************************************************/
 /***        Local Function Prototypes                                     ***/
 /****************************************************************************/
@@ -90,8 +90,11 @@ void InitUart(void){
 void UartGetPacketData(void){
 
 	char data;
+	char tempdata[2] = "\0";
 	data = u8AHI_UartReadData(E_AHI_UART_0);
-	strcat(UartPacketData[UartCommandPos],&data);
+	tempdata[0] = data;
+
+	strcat(UartPacketData[UartCommandPos],tempdata);
 	if(strcmp(strrchr(UartPacketData[UartCommandPos],'\n'), '\0' )){
 
 		UartCommandPos++;												// vi tri luu ban tin toi
@@ -125,7 +128,10 @@ OS_TASK(UartCommandExec){
 
 
 	if (UartCommandNumber != 0){
+
+		// xu li lenh dang co
 		DBG_vPrintf(TRACE_APP, "%s",UartPacketData[NextUartCommandNumber]);
+		//
 		CompleteCommand();
 	}
 

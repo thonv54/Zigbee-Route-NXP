@@ -309,33 +309,33 @@ C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libAES_SW_JN516x.a(aes_sw_m
 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libAes_JN516x.a(AEScoprocessorECB.o)
                               aes_sw_mmo.o (symbol from plugin) (bACI_ECBencodeStripe)
 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans1.ltrans.o (memcmp)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans1.ltrans.o (memcmp)
 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans0.ltrans.o (memcpy)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans0.ltrans.o (memcpy)
 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans0.ltrans.o (memset)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans0.ltrans.o (memset)
 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcat.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans12.ltrans.o (strcat)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans13.ltrans.o (strcat)
 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans12.ltrans.o (strcmp)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans13.ltrans.o (strcmp)
 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strrchr.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans12.ltrans.o (strrchr)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans13.ltrans.o (strrchr)
 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
                               c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strrchr.o) (strchr)
 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans6.ltrans.o (__udivsi3)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans6.ltrans.o (__udivsi3)
 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans6.ltrans.o (__umodsi3)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans6.ltrans.o (__umodsi3)
 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans24.ltrans.o (__modsi3)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans7.ltrans.o (__modsi3)
 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans5.ltrans.o (__udivdi3)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans5.ltrans.o (__udivdi3)
 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libOS_JN516x.a(os_version_lc.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans12.ltrans.o (OS_Version_1v2)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans13.ltrans.o (OS_Version_1v2)
 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_version_lc.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans7.ltrans.o (ZPS_APL_Version_2v0)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans11.ltrans.o (ZPS_APL_Version_2v0)
 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_version_lc.o)
-                              C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans7.ltrans.o (ZPS_NWK_Version_2v0)
+                              C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans11.ltrans.o (ZPS_NWK_Version_2v0)
 
 Allocating common symbols
 Common symbol       size              file
@@ -365,39 +365,41 @@ g_bLegacyHwBugEmulation
 Discarded input sections
 
  .text          0x0000000000000000        0x0 os_gen.o (symbol from plugin)
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans2.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans3.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans6.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans7.ltrans.o
- .bss           0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans7.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans8.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans9.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans10.ltrans.o
- .rodata        0x0000000000000000        0x4 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans10.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans11.ltrans.o
- .rodata        0x0000000000000000        0x4 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans11.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans13.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans14.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans15.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans16.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans18.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans19.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans20.ltrans.o
- .bss           0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans20.ltrans.o
- .rodata        0x0000000000000000        0x4 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans20.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans21.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans22.ltrans.o
- .bss           0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans22.ltrans.o
- .rodata        0x0000000000000000        0x4 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans22.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans24.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans25.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans26.ltrans.o
- .bss           0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans26.ltrans.o
- .rodata        0x0000000000000000       0x10 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans27.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans28.ltrans.o
- .bss           0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans28.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans29.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans30.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans7.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans11.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans11.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans14.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans15.ltrans.o
+ .rodata        0x0000000000000000        0x4 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans17.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans17.ltrans.o
+ .rodata        0x0000000000000000        0x4 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans17.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans18.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans19.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans19.ltrans.o
+ .rodata        0x0000000000000000        0x4 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans19.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans21.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans21.ltrans.o
+ .rodata        0x0000000000000000        0x4 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans21.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans22.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans23.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans24.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans24.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans25.ltrans.o
+ .rodata        0x0000000000000000       0x10 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans26.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans27.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans27.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans28.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans29.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans29.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans30.ltrans.o
  .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
  .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
  .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
@@ -628,38 +630,38 @@ Linker script and memory map
 
 START GROUP
 LOAD os_gen.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans0.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans1.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans2.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans3.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans4.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans5.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans6.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans7.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans8.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans9.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans10.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans11.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans12.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans13.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans14.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans15.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans16.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans17.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans18.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans19.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans20.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans21.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans22.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans23.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans24.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans25.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans26.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans27.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans28.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans29.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans30.ltrans.o
-LOAD C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans31.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans0.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans1.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans2.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans3.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans4.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans5.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans6.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans7.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans8.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans9.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans10.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans11.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans12.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans13.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans14.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans15.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans16.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans17.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans18.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans19.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans20.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans21.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans22.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans23.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans24.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans25.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans26.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans27.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans28.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans29.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans30.ltrans.o
+LOAD C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans31.ltrans.o
 LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
 LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
 LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
@@ -740,679 +742,679 @@ LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/
                 0x000000000008001c        0x2 SHORT 0x0
                 0x000000000008001e        0x2 SHORT 0x0 ABSOLUTE (_SwConfig)
                 0x0000000000080020                _enc_start = ABSOLUTE (.)
-                0x0000000000080020        0x4 LONG 0x18ba8 ABSOLUTE (_image_len)
-                0x0000000000080024        0x4 LONG 0x98478 ABSOLUTE (_flash_data_start)
+                0x0000000000080020        0x4 LONG 0x18bb0 ABSOLUTE (_image_len)
+                0x0000000000080024        0x4 LONG 0x98480 ABSOLUTE (_flash_data_start)
                 0x0000000000080028        0x2 SHORT 0x13 ((ABSOLUTE (_ram_data_start) / 0x4) & 0xffff)
                 0x000000000008002a        0x2 SHORT 0x1cc ((ABSOLUTE (_ram_data_len) / 0x4) & 0xffff)
                 0x000000000008002c        0x2 SHORT 0x1df ((ABSOLUTE (_bss_start) / 0x4) & 0xffff)
-                0x000000000008002e        0x2 SHORT 0xbcf ((ABSOLUTE (_bss_len) / 0x4) & 0xffff)
-                0x0000000000080030        0x4 LONG 0x8bf3e ABSOLUTE (AppWarmStart)
-                0x0000000000080034        0x4 LONG 0x8bf4a ABSOLUTE (AppColdStart)
+                0x000000000008002e        0x2 SHORT 0xb62 ((ABSOLUTE (_bss_len) / 0x4) & 0xffff)
+                0x0000000000080030        0x4 LONG 0x8c755 ABSOLUTE (AppWarmStart)
+                0x0000000000080034        0x4 LONG 0x8c761 ABSOLUTE (AppColdStart)
                 0x0000000000000000                _enc_offset = (_enc_start & 0xf)
 
-.rodata         0x0000000000080038     0x129d
+.rodata         0x0000000000080038     0x12a1
  *(.rodata*)
  .rodata.str1.1
-                0x0000000000080038       0x6d C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans0.ltrans.o
+                0x0000000000080038       0x6d C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans0.ltrans.o
  *fill*         0x00000000000800a5        0x3 00
- .rodata        0x00000000000800a8       0x14 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans0.ltrans.o
+ .rodata        0x00000000000800a8       0x14 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans0.ltrans.o
                 0x00000000000800a8                g_u32ApsFcSaveCountBitShift
                 0x00000000000800ac                u8MaxZpsConfigEp
                 0x00000000000800ad                au8EpMapPresent
                 0x00000000000800b4                s_groupPdmTable
- .rodata        0x00000000000800bc       0x30 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans1.ltrans.o
+ .rodata        0x00000000000800bc       0x30 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans1.ltrans.o
  .rodata.str1.1
-                0x0000000000000000       0x6d C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans1.ltrans.o
+                0x0000000000000000       0x6d C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans1.ltrans.o
                                           0x8 (size before relaxing)
- .rodata        0x00000000000800ec       0x10 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans2.ltrans.o
+ .rodata        0x00000000000800ec       0x10 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans2.ltrans.o
  .rodata.str1.1
-                0x00000000000800fc      0x1e5 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans3.ltrans.o
+                0x00000000000800fc      0x1e5 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans3.ltrans.o
                                         0x1ef (size before relaxing)
  .rodata.str1.1
-                0x00000000000802e1        0x4 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans4.ltrans.o
+                0x00000000000802e1        0x4 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans4.ltrans.o
                                           0x8 (size before relaxing)
- .rodata        0x00000000000802e5        0x6 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans5.ltrans.o
+ .rodata        0x00000000000802e5        0x6 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans5.ltrans.o
  .rodata.str1.1
-                0x00000000000802eb        0x3 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans5.ltrans.o
- .rodata        0x00000000000802ee       0x10 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans7.ltrans.o
-                0x00000000000802ee                au8FlashWaitStatesHSRCO.87343
-                0x00000000000802f6                au8FlashWaitStates32MXO.87342
+                0x00000000000802eb        0x3 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans5.ltrans.o
  .rodata.str1.1
-                0x0000000000000000        0x3 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans8.ltrans.o
-                                          0x4 (size before relaxing)
+                0x00000000000802ee      0x12f C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans7.ltrans.o
  .rodata.str1.1
-                0x00000000000802fe        0xa C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans9.ltrans.o
-                                          0xf (size before relaxing)
+                0x000000000008041d       0x1e C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans8.ltrans.o
+                                         0x28 (size before relaxing)
  .rodata.str1.1
-                0x0000000000080308       0x11 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans10.ltrans.o
-                                         0x20 (size before relaxing)
+                0x000000000008043b        0x6 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans9.ltrans.o
+ .rodata        0x0000000000080441        0x6 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans9.ltrans.o
+ .rodata        0x0000000000080447       0x10 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans11.ltrans.o
+                0x0000000000080447                au8FlashWaitStatesHSRCO.87343
+                0x000000000008044f                au8FlashWaitStates32MXO.87342
+ *fill*         0x0000000000080457        0x1 00
+ .rodata        0x0000000000080458       0x20 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans12.ltrans.o
+                0x0000000000080458                au32NwkPdmRecordOffsets
  .rodata.str1.1
-                0x0000000000080319        0xd C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans11.ltrans.o
-                                         0x17 (size before relaxing)
- .rodata.str1.1
-                0x0000000000080326       0xb7 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans12.ltrans.o
+                0x0000000000080478       0xbb C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans13.ltrans.o
                                          0xd1 (size before relaxing)
- *fill*         0x00000000000803dd        0x3 00
- .rodata        0x00000000000803e0      0x434 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans12.ltrans.o
-                0x00000000000803e0                zps_g_pvApl
-                0x00000000000803e4                au32UartAddrOffset
-                0x00000000000803ec                pwrm_psWakeupCallbacks
+ *fill*         0x0000000000080533        0x1 00
+ .rodata        0x0000000000080534      0x438 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans13.ltrans.o
+                0x0000000000080538                zps_g_pvApl
+                0x000000000008053c                au32UartAddrOffset
+                0x0000000000080544                pwrm_psWakeupCallbacks
  .rodata.str1.1
-                0x0000000000080814        0x7 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans15.ltrans.o
-                                          0xc (size before relaxing)
- .rodata        0x000000000008081b        0x6 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans16.ltrans.o
+                0x000000000008096c      0x10a C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans16.ltrans.o
  .rodata.str1.1
-                0x0000000000080821      0x10a C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans17.ltrans.o
- .rodata.str1.1
-                0x000000000008092b        0x6 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans18.ltrans.o
- .rodata.str1.1
-                0x0000000000080931      0x12f C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans19.ltrans.o
- .rodata.str1.1
-                0x0000000000080a60        0x5 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans21.ltrans.o
+                0x0000000000080a76        0x5 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans18.ltrans.o
                                          0x13 (size before relaxing)
- *fill*         0x0000000000080a65        0x3 00
- .rodata        0x0000000000080a68       0x94 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans21.ltrans.o
-                0x0000000000080a68                zps_pacNwkFrmStdByteFmt
-                0x0000000000080a6c                zps_pacNwkFrmStdLongFmt
-                0x0000000000080a70                zps_pacNwkFrmStdHalfFmt
+ *fill*         0x0000000000080a7b        0x1 00
+ .rodata        0x0000000000080a7c       0x94 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans18.ltrans.o
+                0x0000000000080a7c                zps_pacNwkFrmStdByteFmt
+                0x0000000000080a80                zps_pacNwkFrmStdLongFmt
+                0x0000000000080a84                zps_pacNwkFrmStdHalfFmt
  .rodata.str1.1
-                0x0000000000080afc        0x3 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans22.ltrans.o
+                0x0000000000080b10        0x3 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans19.ltrans.o
                                          0x1f (size before relaxing)
  .rodata.str1.1
-                0x0000000000080aff       0x22 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans23.ltrans.o
+                0x0000000000080b13       0x22 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans20.ltrans.o
                                          0x39 (size before relaxing)
- *fill*         0x0000000000080b21        0x3 00
- .rodata        0x0000000000080b24      0x124 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans23.ltrans.o
-                0x0000000000080b24                g_bStopZdpAcks
- .rodata        0x0000000000080c48       0x20 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans24.ltrans.o
-                0x0000000000080c48                au32NwkPdmRecordOffsets
+ *fill*         0x0000000000080b35        0x3 00
+ .rodata        0x0000000000080b38      0x124 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans20.ltrans.o
+                0x0000000000080b38                g_bStopZdpAcks
  .rodata.str1.1
-                0x0000000000080c68       0x1c C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans25.ltrans.o
+                0x0000000000080c5c        0x6 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans21.ltrans.o
+                                         0x19 (size before relaxing)
+ .rodata.str1.1
+                0x0000000000080c62       0x1c C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans23.ltrans.o
                                          0x40 (size before relaxing)
  .rodata.str1.1
-                0x0000000000000000        0x6 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans26.ltrans.o
+                0x0000000000000000        0x6 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans24.ltrans.o
  .rodata.str1.1
-                0x0000000000000000       0x1c C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans29.ltrans.o
+                0x0000000000080c7e        0x7 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans25.ltrans.o
+                                          0xc (size before relaxing)
+ .rodata.str1.1
+                0x0000000000000000        0x7 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans28.ltrans.o
                                           0x4 (size before relaxing)
- .rodata        0x0000000000080c84       0x88 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans29.ltrans.o
-                0x0000000000080c84                g_u32NwkFcSaveCountBitShift
+ *fill*         0x0000000000080c85        0x3 00
+ .rodata        0x0000000000080c88       0x88 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans28.ltrans.o
+                0x0000000000080c88                g_u32NwkFcSaveCountBitShift
  .rodata.str1.1
-                0x0000000000080d0c      0x5c9 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans31.ltrans.o
+                0x0000000000000000        0x7 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans29.ltrans.o
+                                          0x4 (size before relaxing)
+ .rodata.str1.1
+                0x0000000000080d10      0x5c9 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans31.ltrans.o
                                         0x60b (size before relaxing)
 
-.text           0x00000000000812d8    0x1719e
+.text           0x00000000000812e0    0x1719e
  *(.text*)
- .text          0x00000000000812d8     0x13a8 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans0.ltrans.o
-                0x00000000000812d8                APP_TIMER_Version_1v0
-                0x00000000000812d8                vInitialiseApp.3058
- .text          0x0000000000082680      0xe81 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans1.ltrans.o
-                0x000000000008268d                eBasicTxCompleteHandler
-                0x0000000000082692                vTxRxTimeout.84980
-                0x00000000000826f2                eSmeAcScBeaconInd.77071
-                0x000000000008274e                eSmeASFlBeaconInd.76908
-                0x0000000000082770                eSmeUDNTScanDcfm.76361
-                0x00000000000827f7                zps_eNwkHandleSmePollDcfm
-                0x0000000000082821                eLeaveDataDcfmRemoteLeave.81597
-                0x0000000000082867                eSmeGenlScanDcfm.76900
-                0x00000000000828c5                eSmeEdScScanDcfm.76896
-                0x0000000000082a6c                eSmeAcScBeaconInd.76916
-                0x0000000000082b74                eSmeUDNTBeaconInd.76892
-                0x0000000000082b97                ZPS_eTsvOpen
-                0x0000000000082bb1                zps_vNwkBttMgrInit
-                0x0000000000082bdf                vMiniMac_ReturnTxBufferCallback
-                0x0000000000082bf1                vEnableReceive.84985
-                0x0000000000082c21                pvHeap_Alloc
-                0x0000000000082c24                vMicroIntRestoreState
-                0x0000000000082c30                bAHI_WriteEEPROMfixSegmentData
-                0x0000000000082c8e                bAHI_InitialiseEEPROM
-                0x0000000000082cd6                vAHI_ReadDataFromEEPROMregister
-                0x0000000000082d03                vAHI_WriteDataIntoEEPROMregister
-                0x0000000000082d33                iPDM_WriteSegmentHeaderDataIntoEEPROMsegment
-                0x0000000000082d62                u8AHI_WakeTimerFiredStatus
-                0x0000000000082d76                vAHI_WakeTimerStop.part.3.87837
-                0x0000000000082d96                vAHI_UartReset.part.4.87591
-                0x0000000000082dce                vAHI_OptimiseWaitStates
-                0x0000000000082e1a                vAHI_CpuDoze
-                0x0000000000082e2d                vAHI_SwReset
-                0x0000000000082e3e                vAHI_DioSetOutput
-                0x0000000000082e52                vAHI_DioSetDirection
-                0x0000000000082e66                vEcbEncodeStripe.87051
-                0x0000000000082ebd                bIssueACIcommand
-                0x0000000000082f53                AESSW_vMMOBlockUpdate
-                0x0000000000082fc5                vRadioToOff
-                0x0000000000082fe2                vStartReceive
-                0x0000000000082ff1                MAC_u64GetExtAddr
-                0x000000000008300c                ZPS_u64NwkNibFindExtAddr
-                0x00000000000830b7                ZPS_u16NwkNibFindNwkAddr
-                0x000000000008315d                psSearchForFrameToSend
-                0x00000000000831ab                eMiniMac_FrameInProgress
-                0x00000000000831d6                vRemoveFromTxQueue
-                0x0000000000083212                vAddToTxQueue
-                0x0000000000083248                u8GetHeaderSize
-                0x0000000000083270                vMiniMac_MLME_SetReq_MinBe
-                0x0000000000083295                zps_vSendJoinInd
-                0x0000000000083306                zps_psFormatCmdFrameGeneral
-                0x0000000000083381                zps_eNwkFormStInit
-                0x0000000000083396                vSendDcfm.77589
-                0x00000000000833bb                bCheckMatchingEntry.77066
-                0x00000000000833e1                zps_psNwkSlistRemoveFromHead
-                0x00000000000833f8                zps_psNwkSlistRemove
-                0x0000000000083430                zps_bNwkMcpsMgrRemoveDescrFromLists
-                0x000000000008346e                zps_vNwkSlistAddToTail
-                0x0000000000083488                ZPS_vNwkSecResetDevice
-                0x00000000000834cd                ZPS_bNwkSecHaveNetworkKey
- .text          0x0000000000083501      0xe54 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans2.ltrans.o
-                0x0000000000083501                DBG_vUartFlush
-                0x000000000008352e                DBG_vUartPutch
-                0x0000000000083574                iPDM_ReadUserDataFromEEPROMsegment
-                0x00000000000835f0                vPDM_WriteFileSystemRecordAndSegmentDataIntoEEPROMsegment
-                0x0000000000083633                vPostTxActions.85071
-                0x0000000000083670                vMiniMac_TxComplete
-                0x00000000000837fc                vMiniMac_NextTransaction
-                0x0000000000083866                MAC_vPibSetRxOnWhenIdle.constprop.73
-                0x000000000008386e                vMiniMac_Init
-                0x0000000000083b74                eTransmit
-                0x0000000000083c51                iPDM_FilterDuplicateAppendedSegmentsOnList.64917
-                0x0000000000083ca7                vDispatch.4997
-                0x0000000000083d79                OS_eStartSWTimer.constprop.62
-                0x0000000000083e7a                OS_eContinueSWTimer.constprop.31
-                0x0000000000083f73                OS_ePostMessage
-                0x00000000000840d9                OS_eExitCriticalSection
-                0x00000000000841be                OS_eActivateTask
-                0x0000000000084259                vPostMlmeDcfmInd.22737
-                0x00000000000842fc                iPDM_ReadSegmentHeaderDataFromEEPROMsegment
- .text          0x0000000000084355      0xf9f C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans3.ltrans.o
-                0x0000000000084355                PDUM_hAPduAllocateAPduInstance
-                0x00000000000843c9                zps_eAplZdoSendZdpResponse
-                0x0000000000084412                bSendResponse.39541
-                0x0000000000084455                PDUM_eAPduFreeAPduInstance
-                0x00000000000844d8                zps_bAplZdoMatchDescServer.part.0.27747
-                0x000000000008479e                zps_bAplZdoNodeDescServer
-                0x000000000008493a                zps_bAplZdoSimpleDescServer
-                0x0000000000084b40                zps_bAplZdoPowerDescServer
-                0x0000000000084c8d                zps_bAplZdoActiveEpServer
-                0x0000000000084da6                zps_bAplZdoSystemServerDiscoveryServer
-                0x0000000000084e63                zps_bAplZdoMgmtLqiServer
-                0x0000000000085080                zps_bAplZdoMgmtRtgServer
-                0x00000000000851b0                os_vAPP_taskMyEndPoint
-                0x00000000000852b6                vLoadNwkRecord.69757
- .text          0x00000000000852f4      0xc02 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans4.ltrans.o
-                0x00000000000852f4                zps_bAplZdoNwkAddrServer
-                0x00000000000854b1                zps_bAplZdoIeeeAddrServer
-                0x0000000000085640                zps_bAplZdoMatchDescServer
-                0x000000000008568b                vAHI_Sleep
-                0x000000000008573c                zps_vSendJoinDcfm
-                0x0000000000085782                vGiveUp.80173
-                0x00000000000857ab                PDUM_eNPduAllocate
-                0x000000000008581a                zps_u8AplApsConstructAndPostLoopBackDataInd.10762
-                0x000000000008596e                u8PostUnicastMsgToNHLE.10770
-                0x00000000000859a7                vPostMcpsDcfmInd.22744
-                0x0000000000085afd                PDUM_eNPduClone
-                0x0000000000085b49                PDUM_eNPduFree
-                0x0000000000085bb6                vPostVsMcpsDcfmInd.22751
-                0x0000000000085c7e                zps_vNwkMcpsMgrFreeReqDescr
-                0x0000000000085ca8                zps_vNwkRemoveConflictedBroadcast
-                0x0000000000085cfa                vFreePendingReqDescr
-                0x0000000000085d3a                vHandleRouteDiscoveryExpiry.72674
-                0x0000000000085d95                zps_vNwkMcpsMgrTidyBtrReqDescr
-                0x0000000000085dd8                vNwkBttTimerExpiry.75170
- .text          0x0000000000085ef6      0xb5e C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans5.ltrans.o
-                0x0000000000085f2c                os_vAPP_cbDisableTickTimer
-                0x0000000000085f70                DBG_iUartGetChar
-                0x0000000000085fc0                os_vAPP_cbEnableTickTimer
-                0x0000000000086040                eOrphanNotificationSent.85753
-                0x0000000000086089                DBG_vUartInitHardware
-                0x00000000000861c6                dbg_vPrintfImplNoneVerbose
-                0x000000000008664d                ZPS_bSecDecrypt
-                0x000000000008675f                boPDM_IsBitmapSaturated.64636
-                0x00000000000867a8                iPDM_SearchForBufferIdInList
-                0x00000000000867dd                iPDM_SearchForBufferIdInFileSystem
-                0x00000000000867f0                iPDM_GetLengthOfDataInBufferWithIdFromFileSystem
-                0x000000000008684c                iPDM_SearchForSpecificSegmentInList
-                0x000000000008687e                psGetTxFrameBuffer
-                0x00000000000868b7                psGetAndBuildCoordRealignment
-                0x000000000008690f                eBuildAndSend.85761
-                0x0000000000086984                iPDM_ReCalculateWearCountAndChecksumAndWriteFileSystemHeader
-                0x00000000000869ce                vPDM_SetEEPROMandFileSystemValidState
-                0x00000000000869f5                iPDM_ReadUserDataFromFileSystemRecord
-                0x0000000000086a1f                iPDM_ReadUserDataFromSegmentWithId
- .text          0x0000000000086a54      0xeaa C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans6.ltrans.o
-                0x0000000000086a54                vPermitJoinHandleExpiry.71948
-                0x0000000000086a5d                vNwkMcpsTimerCallback
-                0x0000000000086a77                zps_eSceGenlIllegal
-                0x0000000000086a7e                zps_eSmeGenlIllegal
-                0x0000000000086a85                DBG_vUartFailedAssert
-                0x0000000000086a89                psGetVsMcpsBuf.22748
-                0x0000000000086a92                psGetMlmeBuf.22734
-                0x0000000000086a9b                psGetMcpsBuf.22741
-                0x0000000000086aa4                psGetNlmeBuf.8164
-                0x0000000000086aae                psGetNldeBuf.8185
-                0x0000000000086ab8                psGetApsmeBuf.8171
-                0x0000000000086ac1                psGetApsdeBuf.8178
-                0x0000000000086ac7                vLoopbackTimerCallback
-                0x0000000000086af6                ZPS_bNwkSecFindMatSet
-                0x0000000000086b32                zps_eNwkRctMatchNwkAddr
-                0x0000000000086b9c                ZPS_u8NwkCalcNldeReqOverhead
-                0x0000000000086bd7                zps_vRemoveNextHop
-                0x0000000000086c65                zps_vRemoveRoute
-                0x0000000000086d00                zps_psNwkRtMatchNwkAddr
-                0x0000000000086d4f                ZPS_u64NwkNibGetMappedIeeeAddr
-                0x0000000000086d71                ZPS_bNwkNibNtActvMatch
-                0x0000000000086e29                bCheckNwkAddr
-                0x0000000000086e77                ZPS_vSetExtendedStatus
-                0x0000000000086e89                zps_eNwkRtMatch
-                0x0000000000086f86                zps_psApsApsAllocateDcfmRecord
-                0x0000000000086ff4                zps_u8CalcLinkCost
-                0x0000000000087030                ZPS_u8NwkNibNtDiscMatch
-                0x0000000000087114                zps_u64NwkLibFromPayload
-                0x0000000000087153                zps_vNwkLibU64ToPayload
-                0x0000000000087180                zps_vInitBeaconPayload
-                0x00000000000871fc                ZPS_vNtSetUsedStatus
-                0x000000000008726a                zps_eNwkDcfmIndPost
-                0x000000000008728d                zps_psNwkDcfmIndGetBuf
-                0x00000000000872af                eRouteRequestDataDcfm.73110
-                0x0000000000087303                eNldeDataDcfm.70962
-                0x0000000000087333                zps_vSendNwkStatusInd
-                0x0000000000087363                vPDM_ReadBitmapHeader.64600
-                0x0000000000087382                psSLISTsearch
-                0x00000000000873c2                psSLISTremove
-                0x0000000000087440                psSLISTgetNext
-                0x0000000000087464                u8PDM_CalculateFileSystemCapacity
-                0x0000000000087482                u8PDM_CalculateLargestDataRecordStored
-                0x00000000000874b3                bPDM_ImageBitmapRepairCheck
-                0x00000000000874db                u8PDM_ReadSequenceNumber
-                0x00000000000874fe                boSegmentNumberDeleteSearchMatch.64178
-                0x0000000000087519                u32PDM_ReadFileSystemHeaderWearCount
-                0x000000000008752f                boSearchForWearCountSubstitute.64500
-                0x0000000000087555                boSearchForWearCountInsertPoint.63749
-                0x0000000000087573                vPDM_WriteFileSystemHeaderWearCount
-                0x0000000000087585                u8PDM_CalculateSegmentsRequired.part.0.62885
-                0x00000000000875b3                RND_u32GetRand256
-                0x00000000000875d0                RND_u32GetRand
-                0x00000000000875f7                u16CalculateFailedTxCount.40718
-                0x0000000000087621                zps_bAplZdoServerHandleConfirmAcks
-                0x000000000008766b                zps_bPerformLeaveActionDecider
-                0x0000000000087670                vHandleUpdateDeviceIndication.17147
-                0x000000000008769a                u32GetScanChannels.17134
-                0x00000000000876c5                bDuplicateCheck.12413
-                0x00000000000877b4                zps_vAplApsFillAndPostApsAck
-                0x000000000008781e                zps_u8AplApsFreeMsgHandle
-                0x0000000000087888                bCheckProfile.8023
-                0x00000000000878c6                ZPS_bIsGroupPresent
+ .text          0x00000000000812e0     0x13a8 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans0.ltrans.o
+                0x00000000000812e0                APP_TIMER_Version_1v0
+                0x00000000000812e0                vInitialiseApp.3058
+ .text          0x0000000000082688      0xe81 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans1.ltrans.o
+                0x0000000000082695                eBasicTxCompleteHandler
+                0x000000000008269a                vTxRxTimeout.84980
+                0x00000000000826fa                eSmeAcScBeaconInd.77071
+                0x0000000000082756                eSmeASFlBeaconInd.76908
+                0x0000000000082778                eSmeUDNTScanDcfm.76361
+                0x00000000000827ff                zps_eNwkHandleSmePollDcfm
+                0x0000000000082829                eLeaveDataDcfmRemoteLeave.81597
+                0x000000000008286f                eSmeGenlScanDcfm.76900
+                0x00000000000828cd                eSmeEdScScanDcfm.76896
+                0x0000000000082a74                eSmeAcScBeaconInd.76916
+                0x0000000000082b7c                eSmeUDNTBeaconInd.76892
+                0x0000000000082b9f                ZPS_eTsvOpen
+                0x0000000000082bb9                zps_vNwkBttMgrInit
+                0x0000000000082be7                vMiniMac_ReturnTxBufferCallback
+                0x0000000000082bf9                vEnableReceive.84985
+                0x0000000000082c29                pvHeap_Alloc
+                0x0000000000082c2c                vMicroIntRestoreState
+                0x0000000000082c38                bAHI_WriteEEPROMfixSegmentData
+                0x0000000000082c96                bAHI_InitialiseEEPROM
+                0x0000000000082cde                vAHI_ReadDataFromEEPROMregister
+                0x0000000000082d0b                vAHI_WriteDataIntoEEPROMregister
+                0x0000000000082d3b                iPDM_WriteSegmentHeaderDataIntoEEPROMsegment
+                0x0000000000082d6a                u8AHI_WakeTimerFiredStatus
+                0x0000000000082d7e                vAHI_WakeTimerStop.part.3.87837
+                0x0000000000082d9e                vAHI_UartReset.part.4.87591
+                0x0000000000082dd6                vAHI_OptimiseWaitStates
+                0x0000000000082e22                vAHI_CpuDoze
+                0x0000000000082e35                vAHI_SwReset
+                0x0000000000082e46                vAHI_DioSetOutput
+                0x0000000000082e5a                vAHI_DioSetDirection
+                0x0000000000082e6e                vEcbEncodeStripe.87051
+                0x0000000000082ec5                bIssueACIcommand
+                0x0000000000082f5b                AESSW_vMMOBlockUpdate
+                0x0000000000082fcd                vRadioToOff
+                0x0000000000082fea                vStartReceive
+                0x0000000000082ff9                MAC_u64GetExtAddr
+                0x0000000000083014                ZPS_u64NwkNibFindExtAddr
+                0x00000000000830bf                ZPS_u16NwkNibFindNwkAddr
+                0x0000000000083165                psSearchForFrameToSend
+                0x00000000000831b3                eMiniMac_FrameInProgress
+                0x00000000000831de                vRemoveFromTxQueue
+                0x000000000008321a                vAddToTxQueue
+                0x0000000000083250                u8GetHeaderSize
+                0x0000000000083278                vMiniMac_MLME_SetReq_MinBe
+                0x000000000008329d                zps_vSendJoinInd
+                0x000000000008330e                zps_psFormatCmdFrameGeneral
+                0x0000000000083389                zps_eNwkFormStInit
+                0x000000000008339e                vSendDcfm.77589
+                0x00000000000833c3                bCheckMatchingEntry.77066
+                0x00000000000833e9                zps_psNwkSlistRemoveFromHead
+                0x0000000000083400                zps_psNwkSlistRemove
+                0x0000000000083438                zps_bNwkMcpsMgrRemoveDescrFromLists
+                0x0000000000083476                zps_vNwkSlistAddToTail
+                0x0000000000083490                ZPS_vNwkSecResetDevice
+                0x00000000000834d5                ZPS_bNwkSecHaveNetworkKey
+ .text          0x0000000000083509      0xe54 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans2.ltrans.o
+                0x0000000000083509                DBG_vUartFlush
+                0x0000000000083536                DBG_vUartPutch
+                0x000000000008357c                iPDM_ReadUserDataFromEEPROMsegment
+                0x00000000000835f8                vPDM_WriteFileSystemRecordAndSegmentDataIntoEEPROMsegment
+                0x000000000008363b                vPostTxActions.85071
+                0x0000000000083678                vMiniMac_TxComplete
+                0x0000000000083804                vMiniMac_NextTransaction
+                0x000000000008386e                MAC_vPibSetRxOnWhenIdle.constprop.73
+                0x0000000000083876                vMiniMac_Init
+                0x0000000000083b7c                eTransmit
+                0x0000000000083c59                iPDM_FilterDuplicateAppendedSegmentsOnList.64917
+                0x0000000000083caf                vDispatch.4997
+                0x0000000000083d81                OS_eStartSWTimer.constprop.62
+                0x0000000000083e82                OS_eContinueSWTimer.constprop.31
+                0x0000000000083f7b                OS_ePostMessage
+                0x00000000000840e1                OS_eExitCriticalSection
+                0x00000000000841c6                OS_eActivateTask
+                0x0000000000084261                vPostMlmeDcfmInd.22737
+                0x0000000000084304                iPDM_ReadSegmentHeaderDataFromEEPROMsegment
+ .text          0x000000000008435d      0xf9f C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans3.ltrans.o
+                0x000000000008435d                PDUM_hAPduAllocateAPduInstance
+                0x00000000000843d1                zps_eAplZdoSendZdpResponse
+                0x000000000008441a                bSendResponse.39541
+                0x000000000008445d                PDUM_eAPduFreeAPduInstance
+                0x00000000000844e0                zps_bAplZdoMatchDescServer.part.0.27747
+                0x00000000000847a6                zps_bAplZdoNodeDescServer
+                0x0000000000084942                zps_bAplZdoSimpleDescServer
+                0x0000000000084b48                zps_bAplZdoPowerDescServer
+                0x0000000000084c95                zps_bAplZdoActiveEpServer
+                0x0000000000084dae                zps_bAplZdoSystemServerDiscoveryServer
+                0x0000000000084e6b                zps_bAplZdoMgmtLqiServer
+                0x0000000000085088                zps_bAplZdoMgmtRtgServer
+                0x00000000000851b8                os_vAPP_taskMyEndPoint
+                0x00000000000852be                vLoadNwkRecord.69757
+ .text          0x00000000000852fc      0xc02 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans4.ltrans.o
+                0x00000000000852fc                zps_bAplZdoNwkAddrServer
+                0x00000000000854b9                zps_bAplZdoIeeeAddrServer
+                0x0000000000085648                zps_bAplZdoMatchDescServer
+                0x0000000000085693                vAHI_Sleep
+                0x0000000000085744                zps_vSendJoinDcfm
+                0x000000000008578a                vGiveUp.80173
+                0x00000000000857b3                PDUM_eNPduAllocate
+                0x0000000000085822                zps_u8AplApsConstructAndPostLoopBackDataInd.10762
+                0x0000000000085976                u8PostUnicastMsgToNHLE.10770
+                0x00000000000859af                vPostMcpsDcfmInd.22744
+                0x0000000000085b05                PDUM_eNPduClone
+                0x0000000000085b51                PDUM_eNPduFree
+                0x0000000000085bbe                vPostVsMcpsDcfmInd.22751
+                0x0000000000085c86                zps_vNwkMcpsMgrFreeReqDescr
+                0x0000000000085cb0                zps_vNwkRemoveConflictedBroadcast
+                0x0000000000085d02                vFreePendingReqDescr
+                0x0000000000085d42                vHandleRouteDiscoveryExpiry.72674
+                0x0000000000085d9d                zps_vNwkMcpsMgrTidyBtrReqDescr
+                0x0000000000085de0                vNwkBttTimerExpiry.75170
+ .text          0x0000000000085efe      0xb5e C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans5.ltrans.o
+                0x0000000000085f34                os_vAPP_cbDisableTickTimer
+                0x0000000000085f78                DBG_iUartGetChar
+                0x0000000000085fc8                os_vAPP_cbEnableTickTimer
+                0x0000000000086048                eOrphanNotificationSent.85753
+                0x0000000000086091                DBG_vUartInitHardware
+                0x00000000000861ce                dbg_vPrintfImplNoneVerbose
+                0x0000000000086655                ZPS_bSecDecrypt
+                0x0000000000086767                boPDM_IsBitmapSaturated.64636
+                0x00000000000867b0                iPDM_SearchForBufferIdInList
+                0x00000000000867e5                iPDM_SearchForBufferIdInFileSystem
+                0x00000000000867f8                iPDM_GetLengthOfDataInBufferWithIdFromFileSystem
+                0x0000000000086854                iPDM_SearchForSpecificSegmentInList
+                0x0000000000086886                psGetTxFrameBuffer
+                0x00000000000868bf                psGetAndBuildCoordRealignment
+                0x0000000000086917                eBuildAndSend.85761
+                0x000000000008698c                iPDM_ReCalculateWearCountAndChecksumAndWriteFileSystemHeader
+                0x00000000000869d6                vPDM_SetEEPROMandFileSystemValidState
+                0x00000000000869fd                iPDM_ReadUserDataFromFileSystemRecord
+                0x0000000000086a27                iPDM_ReadUserDataFromSegmentWithId
+ .text          0x0000000000086a5c      0xeaa C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans6.ltrans.o
+                0x0000000000086a5c                vPermitJoinHandleExpiry.71948
+                0x0000000000086a65                vNwkMcpsTimerCallback
+                0x0000000000086a7f                zps_eSceGenlIllegal
+                0x0000000000086a86                zps_eSmeGenlIllegal
+                0x0000000000086a8d                DBG_vUartFailedAssert
+                0x0000000000086a91                psGetVsMcpsBuf.22748
+                0x0000000000086a9a                psGetMlmeBuf.22734
+                0x0000000000086aa3                psGetMcpsBuf.22741
+                0x0000000000086aac                psGetNlmeBuf.8164
+                0x0000000000086ab6                psGetNldeBuf.8185
+                0x0000000000086ac0                psGetApsmeBuf.8171
+                0x0000000000086ac9                psGetApsdeBuf.8178
+                0x0000000000086acf                vLoopbackTimerCallback
+                0x0000000000086afe                ZPS_bNwkSecFindMatSet
+                0x0000000000086b3a                zps_eNwkRctMatchNwkAddr
+                0x0000000000086ba4                ZPS_u8NwkCalcNldeReqOverhead
+                0x0000000000086bdf                zps_vRemoveNextHop
+                0x0000000000086c6d                zps_vRemoveRoute
+                0x0000000000086d08                zps_psNwkRtMatchNwkAddr
+                0x0000000000086d57                ZPS_u64NwkNibGetMappedIeeeAddr
+                0x0000000000086d79                ZPS_bNwkNibNtActvMatch
+                0x0000000000086e31                bCheckNwkAddr
+                0x0000000000086e7f                ZPS_vSetExtendedStatus
+                0x0000000000086e91                zps_eNwkRtMatch
+                0x0000000000086f8e                zps_psApsApsAllocateDcfmRecord
+                0x0000000000086ffc                zps_u8CalcLinkCost
+                0x0000000000087038                ZPS_u8NwkNibNtDiscMatch
+                0x000000000008711c                zps_u64NwkLibFromPayload
+                0x000000000008715b                zps_vNwkLibU64ToPayload
+                0x0000000000087188                zps_vInitBeaconPayload
+                0x0000000000087204                ZPS_vNtSetUsedStatus
+                0x0000000000087272                zps_eNwkDcfmIndPost
+                0x0000000000087295                zps_psNwkDcfmIndGetBuf
+                0x00000000000872b7                eRouteRequestDataDcfm.73110
+                0x000000000008730b                eNldeDataDcfm.70962
+                0x000000000008733b                zps_vSendNwkStatusInd
+                0x000000000008736b                vPDM_ReadBitmapHeader.64600
+                0x000000000008738a                psSLISTsearch
+                0x00000000000873ca                psSLISTremove
+                0x0000000000087448                psSLISTgetNext
+                0x000000000008746c                u8PDM_CalculateFileSystemCapacity
+                0x000000000008748a                u8PDM_CalculateLargestDataRecordStored
+                0x00000000000874bb                bPDM_ImageBitmapRepairCheck
+                0x00000000000874e3                u8PDM_ReadSequenceNumber
+                0x0000000000087506                boSegmentNumberDeleteSearchMatch.64178
+                0x0000000000087521                u32PDM_ReadFileSystemHeaderWearCount
+                0x0000000000087537                boSearchForWearCountSubstitute.64500
+                0x000000000008755d                boSearchForWearCountInsertPoint.63749
+                0x000000000008757b                vPDM_WriteFileSystemHeaderWearCount
+                0x000000000008758d                u8PDM_CalculateSegmentsRequired.part.0.62885
+                0x00000000000875bb                RND_u32GetRand256
+                0x00000000000875d8                RND_u32GetRand
+                0x00000000000875ff                u16CalculateFailedTxCount.40718
+                0x0000000000087629                zps_bAplZdoServerHandleConfirmAcks
+                0x0000000000087673                zps_bPerformLeaveActionDecider
+                0x0000000000087678                vHandleUpdateDeviceIndication.17147
+                0x00000000000876a2                u32GetScanChannels.17134
+                0x00000000000876cd                bDuplicateCheck.12413
+                0x00000000000877bc                zps_vAplApsFillAndPostApsAck
+                0x0000000000087826                zps_u8AplApsFreeMsgHandle
+                0x0000000000087890                bCheckProfile.8023
+                0x00000000000878ce                ZPS_bIsGroupPresent
  .text.unlikely
-                0x00000000000878fe       0xd0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans6.ltrans.o
-                0x00000000000878fe                bIsBindTableMatch.12138
-                0x000000000008794f                eRemoveEntryInBindingTable.12166
- .text          0x00000000000879ce      0xadf C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans7.ltrans.o
-                0x00000000000879ce                os_u32APP_cbGetTickTimer
-                0x00000000000879d7                os_bAPP_cbSetTickTimerCompare
-                0x0000000000087a33                vZdoServersInit.2780
-                0x0000000000087b02                boIdValueSearchMatch.63753
-                0x0000000000087cb6                u16PDM_CalculateRecordChecksum
-                0x0000000000087d61                zps_psNwkMcpsMgrFindPendingByNwkDstAddr
-                0x0000000000087d97                PWRM_vWakeInterruptCallback
-                0x0000000000087e1e                ZPS_vNwkNibClearTables
-                0x0000000000087f39                zps_vBuildSortedActvNTList
-                0x0000000000087fdf                zps_vCheckActvNtForDuplicate
-                0x000000000008803a                zps_vTidyActvNtAfterJoin
-                0x0000000000088088                eUnsolicitedRejoinRspDataDcfm.67952
-                0x00000000000880b3                vMicroIntEnableOnly.constprop.84
-                0x00000000000880df                vSetChannelAndPower
-                0x000000000008817d                vMiniMac_MLME_SetReq_PanId
-                0x00000000000881ba                vMiniMac_MLME_SetReq_ShortAddr
-                0x00000000000881c8                iAHI_WriteDataIntoEEPROMsegment.constprop.67
-                0x0000000000088216                vACI_OptimisedCcmStar.constprop.24
-                0x0000000000088401                vSendRouteDiscoveryDcfm.73105.constprop.23
-                0x000000000008842a                zps_eNwkRtDiscMatch.constprop.21
-                0x000000000008847d                vTransformKey.isra.0.13670
+                0x0000000000087906       0xd0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans6.ltrans.o
+                0x0000000000087906                bIsBindTableMatch.12138
+                0x0000000000087957                eRemoveEntryInBindingTable.12166
+ *fill*         0x00000000000879d6        0x2 00
+ .text          0x00000000000879d8      0xa78 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans7.ltrans.o
+                0x00000000000879d8                vPdmEventHandlerCallback
+                0x0000000000087a7d                vPDM_AddFileSystemElementToListInAscendingWearCountOrder
+                0x0000000000087b74                iPDM_WriteSegmentHeaderAndData
+                0x0000000000087d7d                vPDM_MoveAllDataFromListToList
+                0x0000000000087dbb                vPDM_MoveAllDataToDeAllocList.constprop.79
+                0x0000000000087de6                vPDM_MoveAllDataWithBufferIdAndStateFromListToList
+                0x0000000000087e71                vPDM_MoveAllDataWithBufferIdFromListToList
+                0x0000000000087ef6                vPDM_DeleteAllSegmentsWithIdFromFileSystemList.constprop.58
+                0x0000000000087f38                vPDM_MoveFileRecordFromListToList
+                0x0000000000088047                iPDM_VerifyDataSequenceWithBufferId
+                0x00000000000880ed                vPDM_MoveRecordToDeAllocList
+                0x000000000008810d                vPDM_DeleteAppendedSequence
+                0x00000000000881af                PDM_eFullSegmentSave.64297
+                0x0000000000088312                PWRM_vManagePower
+ .text          0x0000000000088450      0xcf5 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans8.ltrans.o
+                0x0000000000088450                vMcpsMgrExpiry.68821
+                0x00000000000884af                zps_vNwkHandleCmeRouteDiscoveryReq
+                0x0000000000088535                ZPS_vNwkResetOutgoingFrameCounter
+                0x0000000000088589                zps_psSendBroadcastFrm.part.0.78230
+                0x00000000000885e7                ZPS_vNwkHandleNldeReqRsp
+                0x00000000000887ee                eUnfragmentedUnicastTransmission.10744
+                0x0000000000088d8e                vHandleTransportKeyFrame.13525
+                0x0000000000088fb0                zps_eAplApsmeUpdateDeviceReqRsp.part.4.12295
+                0x000000000008911c                zps_vAplApsmeCmdMgrRetryTimeout.12130
+ .text          0x0000000000089145      0xde4 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans9.ltrans.o
+                0x0000000000089145                zps_vAplSaveRecord
+                0x0000000000089200                zps_bNwkFindAddIeeeAddr
+                0x0000000000089290                zps_eNwkHandleSceLinkStatus
+                0x00000000000893a3                ZPS_bNwkNibAddrMapAddEntry
+                0x0000000000089563                zps_vAgeRouter
+                0x00000000000896dc                zps_psAllocateAndFormatMacHdr
+                0x0000000000089995                zps_psNwkInitCmdFrame
+                0x0000000000089b2e                zps_vLinkStatusHandleExpiry
+                0x0000000000089bb4                vSendNetworkUpdate.67944
+                0x0000000000089cef                zps_vJoinInitNtParent
+                0x0000000000089d9d                eSmeOrphScanDcfm.80617
+                0x0000000000089e15                eCheckAddrConflict.68173
+                0x0000000000089ecb                ZPS_vRemoveEntryFromAddressMap
+                0x0000000000089f12                ZPS_vNwkSaveAllRecords
  .text.unlikely
-                0x00000000000884ad       0xcd C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans7.ltrans.o
-                0x00000000000884c2                vAHI_MemoryHold.87271
- *fill*         0x000000000008857a        0x2 00
- .text          0x000000000008857c      0xda8 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans8.ltrans.o
-                0x0000000000088725                vHandleRejoinExpiry.80169
-                0x0000000000088782                zps_eRejoinDataDcfm
-                0x00000000000887c6                eSmeAsocAssocDcfm.80777
-                0x000000000008883d                eSmeRjPCPollDcfm.80773
-                0x000000000008887e                eSceRjRsRejoinRsp.80741
-                0x0000000000088b8b                zps_eNwkHandleSceNwkStatus
-                0x0000000000088eec                zps_eNwkHandleSmeAssocInd
-                0x0000000000088f0e                zps_eNwkHandleSceRejnRequest
-                0x0000000000088f5d                zps_eNwkHandleSmeOrphanInd
-                0x0000000000088f6e                zps_sNwkLibSubmitScan
-                0x0000000000088fa7                zps_vNwkDiscUpdateNT
-                0x0000000000089044                eSmeEdScScanDcfm.77598
-                0x00000000000890d4                zps_vNwkHandleCmeEdScanReq
-                0x0000000000089113                zps_eProcessAddrConflict
-                0x00000000000892c0                ZPS_vNwkNibCheckAndUpdateAddresses
- .text          0x0000000000089324      0xd77 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans9.ltrans.o
-                0x0000000000089324                vSendNetworkReport.67940
-                0x00000000000893fe                zps_eNwkHandleSceRouteRequest
-                0x0000000000089715                zps_eNwkHandleSceRouteReply
-                0x000000000008996d                zps_psNwkInitiateRouteDiscovery
-                0x0000000000089aee                psNwkSendRouteRecordCmd.73355
-                0x0000000000089c23                zps_psNwkSendRejoinReqCmd.constprop.12
-                0x0000000000089c7e                zps_u8NwkHandleRejoinReq
-                0x0000000000089d36                vContinueRejoin.79429
-                0x0000000000089df0                zps_psSendNetworkStatusCmd
-                0x0000000000089e5d                zps_vProcessLocalAddrConflict
-                0x0000000000089f2b                zps_eDefaultDataDcfm
- .text          0x000000000008a09b      0xc99 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans10.ltrans.o
-                0x000000000008a09b                zps_eNwkHandleSceRouteRecord
-                0x000000000008a14a                zps_psSendFrm
-                0x000000000008a416                zps_psSendBroadcastFrm.part.0.78230
-                0x000000000008a474                ZPS_vNwkHandleNldeReqRsp
-                0x000000000008a67b                eUnfragmentedUnicastTransmission.10744
-                0x000000000008aa01                zps_eAplSendApsmeCmdFrame
-                0x000000000008ab9f                zps_eAplApsmeUpdateDeviceReqRsp.part.4.12295
-                0x000000000008ad0b                zps_vAplApsmeCmdMgrRetryTimeout.12130
- *fill*         0x000000000008ad34        0x0 00
- .text          0x000000000008ad34      0xaf8 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans11.ltrans.o
-                0x000000000008ad34                vMiniMac_InterruptHandler
-                0x000000000008b09d                os_vzps_isrMAC
-                0x000000000008b0d3                eAssocRespSent.85343
-                0x000000000008b0f2                zps_vNwkHandleCmeSyncReq
-                0x000000000008b13b                zps_vNwkHandleCmeIdleNwkFormReq
-                0x000000000008b1e3                zps_vNwkHandleCmeNwkDiscReq
-                0x000000000008b25d                zps_vReAttemptScanTimerHandleExpiry
-                0x000000000008b2b4                zps_eNwkHandleSmeBeaconNotifyInd
-                0x000000000008b338                zps_eNwkHandleSceNwkReport
-                0x000000000008b3b6                zps_vNwkHandleCmeNwkJoinReq
-                0x000000000008b62d                zps_vNwkHandleCmeNwkActvJoinReq
-                0x000000000008b639                vHandleTransportKeyFrame.13525
- .text          0x000000000008b82c      0xbbf C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans12.ltrans.o
-                0x000000000008b82c                zps_eZdpNodeDescResponse
-                0x000000000008b8d4                zps_eZdpSimpleDescResponse
-                0x000000000008bcdb                zps_eZdpNwkAddrResponse
-                0x000000000008bdbe                zps_eZdpIeeeAddrResponse
-                0x000000000008bea1                zps_eZdpPowerDescResponse
-                0x000000000008bf3e                AppWarmStart
-                0x000000000008bf4a                AppColdStart
-                0x000000000008c199                os_vUnclaimedInterrupt
-                0x000000000008c1ab                os_vControlledIntCheck
-                0x000000000008c1f0                os_vControlledInterrupt
-                0x000000000008c229                os_vUart0GetData
-                0x000000000008c28d                os_vAPP_isrIllegalInstructionException
-                0x000000000008c2a3                os_vAPP_isrAlignmentException
-                0x000000000008c2b9                os_vAPP_isrBusErrorException
-                0x000000000008c2cf                os_vAPP_isrUnimplementedModuleException
-                0x000000000008c2e5                os_vAPP_isrStackOverflowException
-                0x000000000008c2fb                os_vAPP_isrTickTimer
- *fill*         0x000000000008c3eb        0x1 00
- .text          0x000000000008c3ec      0xd10 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans13.ltrans.o
-                0x000000000008c5a4                vSendMlmeCommStatusFromTxFrame
-                0x000000000008c5fa                MAC_vHandleMlmeVsReqRsp.constprop.80
-                0x000000000008cb30                zps_eNwkHandleSmeOrphanInd.part.0.79553
-                0x000000000008cbdf                zps_sNwkStart
-                0x000000000008cc7e                vHandleNwkLocalUpdateAfterBcast.67957
-                0x000000000008ccdd                vHandleNwkRemoteUpdateAfterBcast.67948
-                0x000000000008cd30                eSmeAcScScanDcfm.77593
-                0x000000000008d056                zps_vNwkHandleCmeActvStartRouterReq
- .text          0x000000000008d0fc      0xbc0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans14.ltrans.o
-                0x000000000008d0fc                vMcpsMgrExpiry.68821
-                0x000000000008d15b                zps_vNwkHandleCmeRouteDiscoveryReq
-                0x000000000008d1e1                vAckTimeOutHandler
-                0x000000000008d28c                vMiniMac_MlmeCallback
-                0x000000000008d6b4                vScanBeaconReceived
-                0x000000000008d6fe                vPostDcfm.85772
-                0x000000000008d76d                vScanNextChannel.85778
-                0x000000000008d946                vRunningRxCallback
-                0x000000000008dc1b                ePollReqSent.85922
-                0x000000000008dc66                ZPS_vNwkResetOutgoingFrameCounter
- .text          0x000000000008dcbc      0xb05 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans15.ltrans.o
-                0x000000000008dcbc                zps_vNwkHandleCmeDirectJoinReq
-                0x000000000008dd3b                vIncrementFrameCounterInPdm.isra.0.70188
-                0x000000000008df17                vProcessListsForSubmission.68922
-                0x000000000008e289                zps_vNwkMcpsMgrPost
-                0x000000000008e2ad                psSendRouteReplyCmd.73093
-                0x000000000008e420                zps_vNwkHandleCmeLeaveReq
-                0x000000000008e4ee                zps_eNwkHandleSceLeave
-                0x000000000008e678                zps_eNwkHandleSdeActvDcfmData
-                0x000000000008e74f                vMcpsMgrTimeoutExpiry
- .text          0x000000000008e7c1      0xbcd C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans16.ltrans.o
-                0x000000000008e7c1                zps_bNwkFindAddIeeeAddr
-                0x000000000008e851                ZPS_bNwkNibAddrMapAddEntry
-                0x000000000008ea11                zps_vJoinInitNtParent
-                0x000000000008eabf                eCheckAddrConflict.68173
-                0x000000000008eb75                ZPS_vRemoveEntryFromAddressMap
-                0x000000000008ebbc                ZPS_vNwkSaveAllRecords
-                0x000000000008ebd3                ZPS_vNwkNibSetNwkAddr
-                0x000000000008ebf1                zps_eNwkHandleSceRejnResponse
-                0x000000000008ec4e                ZPS_vNwkNibSetExtPanId
-                0x000000000008ec72                vFinish.80607
-                0x000000000008ecc7                ZPS_vNwkNibSetDepth
-                0x000000000008ecd0                ZPS_vNwkNibSetPanId
-                0x000000000008ecee                ZPS_vNwkNibSetCapabilityInfo
-                0x000000000008ed1b                ZPS_vNwkNibSetChannel
-                0x000000000008ed39                ZPS_vNwkSaveNt
-                0x000000000008ed4d                zps_vAgeRouter
-                0x000000000008eec6                zps_psAllocateAndFormatMacHdr
-                0x000000000008f17f                eSmeOrphScanDcfm.80617
-                0x000000000008f1f7                zps_eNwkHandleSmeCommStatusInd
-                0x000000000008f2ab                eRejoinRspDataDcfm.79433
-                0x000000000008f37a                ZPS_vNwkSaveSecMat
- .text          0x000000000008f38e      0xc60 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans17.ltrans.o
-                0x000000000008f38e                vfExtendedStatusCallBack.3054
-                0x000000000008f39a                os_vButtonScan
-                0x000000000008f49c                vOSError
-                0x000000000008f4f4                os_vUartCommandExec
-                0x000000000008f57f                OS_eEnterCriticalSection
-                0x000000000008f647                PDM_eReadDataFromRecord.part.0.63003
-                0x000000000008f6ca                vLoadAplRecord.17174
-                0x000000000008f6fe                vMiniMac_McpsCallback
-                0x000000000008f8a0                eMcpsTxCompleteHandler.84669
-                0x000000000008f8ce                ZPS_eTsvStart
-                0x000000000008f95e                zps_eNwkHandleSceNwkUpdate
-                0x000000000008f982                vProcessTimedList.68842
-                0x000000000008f9c8                zps_vNwkMcpsMgrPostTimed
-                0x000000000008f9db                vNwkMcpsSendTimedDfcm
-                0x000000000008fa1f                zps_vCleanUnAuthenHandleExpiry
-                0x000000000008fa8f                zps_vAplAfPostTimerEvent
-                0x000000000008fb0c                zps_vExpireOldRoutes
-                0x000000000008fb6e                zps_vNwkJoinStStartResponseTimer
-                0x000000000008fba8                ZPS_eTsvStop
-                0x000000000008fbfc                zps_vNwkHandleCmePermitJoinReq
-                0x000000000008fc64                zps_eNwkBtrMatch
-                0x000000000008fd59                zps_vAplApsStopPollTimer.part.2.10645
-                0x000000000008fde0                ZPS_bSecEncrypt
-                0x000000000008ff96                DBG_vDumpStack
-                0x000000000008ffd8                vUnclaimedInterrupt
- .text          0x000000000008ffee      0xac6 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans18.ltrans.o
-                0x000000000008ffee                zps_eNwkHandleSceLinkStatus
-                0x0000000000090101                eBeaconReqSent.85757
-                0x0000000000090128                zps_sNwkNibNtCheckJoin
-                0x00000000000903a2                vPDM_ImageBitmapRepair.63668
-                0x0000000000090403                zps_vAplSaveRecord
-                0x00000000000904be                zps_psFindKeyDescr
-                0x00000000000905ea                zps_eAplSecEncryptPacket
-                0x00000000000906dc                vAplSecRemoveLinkKey.17239
-                0x0000000000090759                zps_psNwkInitCmdFrame
-                0x00000000000908f2                zps_vLinkStatusHandleExpiry
-                0x0000000000090978                vSendNetworkUpdate.67944
+                0x0000000000089f29       0x5c C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans9.ltrans.o
+                0x0000000000089f29                vInitUnknownNeighbor.68833
+ .text          0x0000000000089f85      0xb6a C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans10.ltrans.o
+                0x0000000000089f85                eBeaconReqSent.85757
+                0x0000000000089fac                vIncrementFrameCounterInPdm.isra.0.70188
+                0x000000000008a188                vProcessListsForSubmission.68922
+                0x000000000008a4fa                zps_sNwkNibNtCheckJoin
+                0x000000000008a774                zps_vNwkHandleCmeDirectJoinReq
+                0x000000000008a7f3                vPDM_ImageBitmapRepair.63668
+                0x000000000008a854                zps_psFindKeyDescr
+                0x000000000008a980                zps_eAplSecEncryptPacket
+                0x000000000008aa72                vAplSecRemoveLinkKey.17239
  .text.unlikely
-                0x0000000000090ab4      0x106 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans18.ltrans.o
-                0x0000000000090ab4                eMakeEntryInBindingTable.12184
-                0x0000000000090b5e                vInitUnknownNeighbor.68833
- *fill*         0x0000000000090bba        0x2 00
- .text          0x0000000000090bbc      0x918 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans19.ltrans.o
-                0x0000000000090bbc                vPdmEventHandlerCallback
-                0x0000000000090c63                vPDM_AddFileSystemElementToListInAscendingWearCountOrder
-                0x0000000000090d5a                iPDM_WriteSegmentHeaderAndData
-                0x0000000000090f63                vPDM_MoveAllDataFromListToList
-                0x0000000000090fa1                vPDM_MoveAllDataToDeAllocList.constprop.79
-                0x0000000000090fcc                vPDM_MoveAllDataWithBufferIdAndStateFromListToList
-                0x0000000000091057                vPDM_MoveAllDataWithBufferIdFromListToList
-                0x00000000000910dc                vPDM_DeleteAllSegmentsWithIdFromFileSystemList.constprop.58
-                0x000000000009111e                vPDM_MoveFileRecordFromListToList
-                0x000000000009122d                iPDM_VerifyDataSequenceWithBufferId
-                0x00000000000912d3                vPDM_MoveRecordToDeAllocList
-                0x00000000000912f3                vPDM_DeleteAppendedSequence
-                0x0000000000091395                PWRM_vManagePower
- .text          0x00000000000914d4      0x9f8 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans20.ltrans.o
-                0x00000000000914d4                zps_vAplApsPollTimer
-                0x0000000000091536                vAplSecAuthPollTimerExpiry.17129
-                0x000000000009158e                vAplSecAuthTimerExpiry.17125
-                0x000000000009165e                eRejoinNetwork.17161.constprop.64
-                0x00000000000916fa                eJoinNetwork.17187
-                0x00000000000917ab                eDiscoverNetworks.17194
-                0x0000000000091807                eStartNetworkDiscovery.17201
-                0x0000000000091871                zps_eAplZdoStartStack
-                0x0000000000091979                eStartRouter.17211
-                0x0000000000091a48                vPostApsmeDcfmInd.8174
- .text          0x0000000000091ecc      0xb70 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans21.ltrans.o
-                0x0000000000091ecc                vStartScanTimerExpiry.40714
-                0x0000000000091f08                ZPS_vNwkHandleMcpsVsDcfmInd
- *fill*         0x0000000000092a3c        0x0 00
- .text          0x0000000000092a3c      0xa84 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans22.ltrans.o
-                0x0000000000092a3c                vPostNldeDcfmInd.8188
- .text          0x00000000000934c0      0x937 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans23.ltrans.o
-                0x00000000000934c0                os_vzps_taskZPS
-                0x0000000000093684                zps_eAplZdpApsdeReqInternal
-                0x0000000000093a9d                zps_bAplZdoDefaultServer
-                0x0000000000093d73                zps_eZdpMgmtLeaveResponse
-                0x0000000000093d94                zps_eZdpMgmtPermitJoiningResponse
-                0x0000000000093db5                zps_eAplZdpBindResponse
-                0x0000000000093dd6                zps_eZdpUnbindResponse
- .text          0x0000000000093df7      0x756 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans24.ltrans.o
-                0x0000000000093f5a                iPDM_SegmentCopyAndAppendData.constprop.78
-                0x0000000000093fb4                iPDM_ReconstructReplacedDataTable
-                0x000000000009415b                iPDM_ReplaceChangedSegmentInSequence
-                0x000000000009424a                PDM_eSaveRecordData
-                0x0000000000094521                ZPS_vNwkSaveRecord
- .text          0x000000000009454d      0x97a C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans25.ltrans.o
-                0x000000000009454d                zps_eZdpActiveEpResponse
-                0x00000000000945e3                zps_eZdpMatchDescResponse
-                0x0000000000094679                zps_eZdpSystemServerDiscoveryResponse
-                0x00000000000946e8                zps_eAplZdpMgmtLqiResponse
-                0x00000000000947d0                zps_eAplZdpMgmtRtgResponse
-                0x0000000000094897                zps_eZdpMgmtNwkUpdateNotifyResponse
-                0x0000000000094a51                zps_bAplZdoZdoClient
- .text          0x0000000000094ec7      0x996 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans26.ltrans.o
-                0x0000000000094f45                zps_bAplZdoMgmtLeaveServer
-                0x0000000000095090                zps_vAplAfPostEvent
-                0x0000000000095493                vPostApsdeDcfmInd.8181
-                0x000000000009569c                zps_vHandleApsdeDataFragIndNotSupported
-                0x0000000000095764                zps_eAplZdoNlmePermitJoiningWrapper
-                0x000000000009578c                zps_bAplZdoPermitJoiningServer
- .text          0x000000000009585d      0xb09 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans27.ltrans.o
-                0x0000000000095970                os_bDummyMemberCheck.5007
-                0x0000000000095975                os_vDefaultErrorHook.5003
-                0x0000000000095978                os_bStrictCheck.1358
-                0x0000000000095acf                pdum_u16ReadNBO
-                0x0000000000095c30                PDUM_u16SizeNBO
-                0x0000000000095c8e                PDUM_u16APduInstanceWriteStrNBO
-                0x0000000000095e0d                PDUM_u16APduInstanceReadNBO
-                0x0000000000095e58                PDUM_u16APduInstanceWriteNBO
-                0x0000000000095ec2                PDUM_eAPduInstanceSetPayloadSize
-                0x0000000000095eea                PDUM_eNPduWriteDataFromBuffer
-                0x0000000000095f44                PDUM_eNPduWriteDataToBuffer
-                0x0000000000095fa2                PDUM_eNPduWriteFromBuffer
-                0x0000000000095fcb                PDUM_eNPduDescend
-                0x0000000000095ff1                PDUM_eNPduAscend
-                0x0000000000096017                PDUM_eNPduClaimData
-                0x0000000000096084                PDUM_eNPduAppendDataNBO
-                0x00000000000960e1                PDUM_eNPduClaimHeader
-                0x0000000000096104                PDUM_eNPduReadHeaderNBO
-                0x0000000000096157                PDUM_eNPduPrependHeaderNBO
-                0x00000000000961b2                PDUM_eNPduInitDescending
-                0x00000000000961cd                eExpireSWTimer.5016
-                0x0000000000096238                vEnterErrorHook.4999
-                0x000000000009625f                OS_eCollectMessage
-                0x0000000000096324                OS_eGetSWTimerStatus
- *fill*         0x0000000000096366        0x2 00
- .text          0x0000000000096368      0x6e0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans28.ltrans.o
-                0x0000000000096368                vPostNlmeDcfmInd.8167
- .text          0x0000000000096a48      0x703 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans29.ltrans.o
-                0x0000000000096c2c                ZPS_vNwkHandleNlmeReqRsp
-                0x0000000000096ca9                zps_bAplZdoDeviceAnnceServer
-                0x0000000000096fef                vChangeChannelTimerExpiry.40710
-                0x000000000009705e                eLeaveReset.81592
-                0x00000000000970d4                eLeaveDataDcfmLocalLeave.81602
- .text          0x000000000009714b      0x391 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans30.ltrans.o
-                0x000000000009714b                ZPS_pvNwkCtor.constprop.71
- *fill*         0x00000000000974dc        0x0 00
- .text          0x00000000000974dc      0x418 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans31.ltrans.o
-                0x00000000000974dc                os_vAPP_taskRouter
- .text          0x00000000000978f4       0x25 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
-                0x00000000000978f4                memcmp
- .text          0x0000000000097919       0x19 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
- .text          0x0000000000097932       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
-                0x0000000000097932                memset
- .text          0x0000000000097944       0x1f c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcat.o)
-                0x0000000000097944                strcat
- .text          0x0000000000097963       0x25 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
-                0x0000000000097963                strcmp
- .text          0x0000000000097988       0x29 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strrchr.o)
-                0x0000000000097988                strrchr
- .text          0x00000000000979b1       0x1c c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
-                0x00000000000979b1                strchr
- *fill*         0x00000000000979cd        0x3 00
- .text          0x00000000000979d0      0x204 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
-                0x00000000000979d0                __udivsi3
- .text          0x0000000000097bd4      0x1b0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
-                0x0000000000097bd4                __umodsi3
- .text          0x0000000000097d84       0x24 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
-                0x0000000000097d84                __modsi3
- .text          0x0000000000097da8      0x350 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
-                0x0000000000097da8                __udivdi3
- *fill*         0x00000000000980f8        0x0 00
- .text          0x00000000000980f8      0x168 os_irq.o
-                0x00000000000980f8                os_ExternalException_W
-                0x000000000009813c                os_PIC_ChannelPriorities
-                0x000000000009814c                os_OSMIUM_HwVectTable
-                0x0000000000098188                os_PIC_SwVectTable
- .text          0x0000000000098260       0x29 os_irq_alignment.o
-                0x0000000000098260                IRQ_Alignment
- .text          0x0000000000098289       0x29 os_irq_buserror.o
-                0x0000000000098289                IRQ_BusError
- .text          0x00000000000982b2       0x29 os_irq_illegalinstruction.o
-                0x00000000000982b2                IRQ_IllegalInstruction
- .text          0x00000000000982db       0x29 os_irq_stackoverflowexception.o
-                0x00000000000982db                IRQ_StackOverflowException
- .text          0x0000000000098304       0x29 os_irq_unimplementedmodule.o
-                0x0000000000098304                IRQ_UnimplementedModule
- *fill*         0x000000000009832d        0x3 00
- .text          0x0000000000098330       0xc0 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libOS_JN516x.a(os_contirq_JN516x.o)
-                0x0000000000098330                os_ExternalException_R
-                0x0000000000098360                os_CFunc_W
-                0x00000000000983b0                os_UnclaimedException_W
-                0x00000000000983d0                os_UnclaimedInterrupt_W
- .text          0x00000000000983f0       0x48 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libPWRM_JN516x.a(pwrm_setjmp_JN516x.o)
-                0x00000000000983f0                setjmp
-                0x0000000000098414                PWRM_longjmp
- .text          0x0000000000098438       0x27 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
-                0x0000000000098438                vAHI_InterruptSetPriority
-                0x0000000000098456                vAHI_InterruptSetActivePriorityLevel
+                0x000000000008aaef       0xaa C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans10.ltrans.o
+                0x000000000008aaef                eMakeEntryInBindingTable.12184
+ .text          0x000000000008ab99      0xadf C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans11.ltrans.o
+                0x000000000008ab99                os_u32APP_cbGetTickTimer
+                0x000000000008aba2                os_bAPP_cbSetTickTimerCompare
+                0x000000000008abfe                vZdoServersInit.2780
+                0x000000000008accd                boIdValueSearchMatch.63753
+                0x000000000008ae81                u16PDM_CalculateRecordChecksum
+                0x000000000008af2c                zps_psNwkMcpsMgrFindPendingByNwkDstAddr
+                0x000000000008af62                PWRM_vWakeInterruptCallback
+                0x000000000008afe9                ZPS_vNwkNibClearTables
+                0x000000000008b104                zps_vBuildSortedActvNTList
+                0x000000000008b1aa                zps_vCheckActvNtForDuplicate
+                0x000000000008b205                zps_vTidyActvNtAfterJoin
+                0x000000000008b253                eUnsolicitedRejoinRspDataDcfm.67952
+                0x000000000008b27e                vMicroIntEnableOnly.constprop.84
+                0x000000000008b2aa                vSetChannelAndPower
+                0x000000000008b348                vMiniMac_MLME_SetReq_PanId
+                0x000000000008b385                vMiniMac_MLME_SetReq_ShortAddr
+                0x000000000008b393                iAHI_WriteDataIntoEEPROMsegment.constprop.67
+                0x000000000008b3e1                vACI_OptimisedCcmStar.constprop.24
+                0x000000000008b5cc                vSendRouteDiscoveryDcfm.73105.constprop.23
+                0x000000000008b5f5                zps_eNwkRtDiscMatch.constprop.21
+                0x000000000008b648                vTransformKey.isra.0.13670
+ .text.unlikely
+                0x000000000008b678       0xcd C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans11.ltrans.o
+                0x000000000008b68d                vAHI_MemoryHold.87271
+ .text          0x000000000008b745      0x8fe C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans12.ltrans.o
+                0x000000000008b745                iPDM_SegmentCopyAndAppendData.constprop.78
+                0x000000000008b79f                iPDM_ReconstructReplacedDataTable
+                0x000000000008b946                iPDM_ReplaceChangedSegmentInSequence
+                0x000000000008ba35                PDM_eSaveRecordData
+                0x000000000008bd0c                ZPS_vNwkSaveRecord
+                0x000000000008bd38                ZPS_vNwkNibSetNwkAddr
+                0x000000000008bd55                zps_eNwkHandleSceRejnResponse
+                0x000000000008bdb2                ZPS_vNwkNibSetExtPanId
+                0x000000000008bdd6                vFinish.80607
+                0x000000000008be2b                ZPS_vNwkNibSetDepth
+                0x000000000008be33                ZPS_vNwkNibSetPanId
+                0x000000000008be50                ZPS_vNwkNibSetCapabilityInfo
+                0x000000000008be7c                ZPS_vNwkNibSetChannel
+                0x000000000008be99                ZPS_vNwkSaveNt
+                0x000000000008beac                zps_eNwkHandleSmeCommStatusInd
+                0x000000000008bf60                eRejoinRspDataDcfm.79433
+                0x000000000008c02f                ZPS_vNwkSaveSecMat
+ .text          0x000000000008c043      0xbc8 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans13.ltrans.o
+                0x000000000008c043                zps_eZdpNodeDescResponse
+                0x000000000008c0eb                zps_eZdpSimpleDescResponse
+                0x000000000008c4f2                zps_eZdpNwkAddrResponse
+                0x000000000008c5d5                zps_eZdpIeeeAddrResponse
+                0x000000000008c6b8                zps_eZdpPowerDescResponse
+                0x000000000008c755                AppWarmStart
+                0x000000000008c761                AppColdStart
+                0x000000000008c9b0                os_vUnclaimedInterrupt
+                0x000000000008c9c2                os_vControlledIntCheck
+                0x000000000008ca07                os_vControlledInterrupt
+                0x000000000008ca40                os_vUart0GetData
+                0x000000000008caad                os_vAPP_isrIllegalInstructionException
+                0x000000000008cac3                os_vAPP_isrAlignmentException
+                0x000000000008cad9                os_vAPP_isrBusErrorException
+                0x000000000008caef                os_vAPP_isrUnimplementedModuleException
+                0x000000000008cb05                os_vAPP_isrStackOverflowException
+                0x000000000008cb1b                os_vAPP_isrTickTimer
+ *fill*         0x000000000008cc0b        0x1 00
+ .text          0x000000000008cc0c      0xba0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans14.ltrans.o
+                0x000000000008cdb5                vHandleRejoinExpiry.80169
+                0x000000000008ce12                zps_eRejoinDataDcfm
+                0x000000000008ce56                eSmeAsocAssocDcfm.80777
+                0x000000000008cecd                eSmeRjPCPollDcfm.80773
+                0x000000000008cf0e                eSceRjRsRejoinRsp.80741
+                0x000000000008cfc3                zps_eNwkHandleSceNwkStatus
+                0x000000000008d17f                zps_sNwkLibSubmitScan
+                0x000000000008d1b8                zps_vNwkDiscUpdateNT
+                0x000000000008d255                zps_vNwkHandleCmeNwkJoinReq
+                0x000000000008d4cd                eSmeEdScScanDcfm.77598
+                0x000000000008d55d                zps_vNwkHandleCmeEdScanReq
+                0x000000000008d59c                zps_eProcessAddrConflict
+                0x000000000008d749                ZPS_vNwkNibCheckAndUpdateAddresses
+ .text          0x000000000008d7ac      0xa1f C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans15.ltrans.o
+                0x000000000008d7ac                vMiniMac_InterruptHandler
+                0x000000000008db15                os_vzps_isrMAC
+                0x000000000008db4b                eAssocRespSent.85343
+                0x000000000008db6a                zps_vNwkHandleCmeSyncReq
+                0x000000000008dbb3                zps_vNwkHandleCmeIdleNwkFormReq
+                0x000000000008dc5b                zps_vReAttemptScanTimerHandleExpiry
+                0x000000000008dcb2                zps_vNwkHandleCmeNwkDiscReq
+                0x000000000008dd2c                zps_eNwkHandleSmeBeaconNotifyInd
+                0x000000000008ddb0                zps_eNwkHandleSceNwkReport
+                0x000000000008de2e                zps_vNwkHandleCmeNwkActvJoinReq
+                0x000000000008de3a                ZPS_pvNwkCtor.constprop.71
+ .text          0x000000000008e1cb      0xc60 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans16.ltrans.o
+                0x000000000008e1cb                vfExtendedStatusCallBack.3054
+                0x000000000008e1d7                os_vButtonScan
+                0x000000000008e2d9                vOSError
+                0x000000000008e331                os_vUartCommandExec
+                0x000000000008e3bc                OS_eEnterCriticalSection
+                0x000000000008e484                PDM_eReadDataFromRecord.part.0.63003
+                0x000000000008e507                vLoadAplRecord.17174
+                0x000000000008e53b                vMiniMac_McpsCallback
+                0x000000000008e6dd                eMcpsTxCompleteHandler.84669
+                0x000000000008e70b                ZPS_eTsvStart
+                0x000000000008e79b                zps_eNwkHandleSceNwkUpdate
+                0x000000000008e7bf                vProcessTimedList.68842
+                0x000000000008e805                zps_vNwkMcpsMgrPostTimed
+                0x000000000008e818                vNwkMcpsSendTimedDfcm
+                0x000000000008e85c                zps_vCleanUnAuthenHandleExpiry
+                0x000000000008e8cc                zps_vAplAfPostTimerEvent
+                0x000000000008e949                zps_vExpireOldRoutes
+                0x000000000008e9ab                zps_vNwkJoinStStartResponseTimer
+                0x000000000008e9e5                ZPS_eTsvStop
+                0x000000000008ea39                zps_vNwkHandleCmePermitJoinReq
+                0x000000000008eaa1                zps_eNwkBtrMatch
+                0x000000000008eb96                zps_vAplApsStopPollTimer.part.2.10645
+                0x000000000008ec1d                ZPS_bSecEncrypt
+                0x000000000008edd3                DBG_vDumpStack
+                0x000000000008ee15                vUnclaimedInterrupt
+ *fill*         0x000000000008ee2b        0x1 00
+ .text          0x000000000008ee2c      0x9f8 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans17.ltrans.o
+                0x000000000008ee2c                zps_vAplApsPollTimer
+                0x000000000008ee8e                vAplSecAuthPollTimerExpiry.17129
+                0x000000000008eee6                vAplSecAuthTimerExpiry.17125
+                0x000000000008efb6                eRejoinNetwork.17161.constprop.64
+                0x000000000008f052                eJoinNetwork.17187
+                0x000000000008f103                eDiscoverNetworks.17194
+                0x000000000008f15f                eStartNetworkDiscovery.17201
+                0x000000000008f1c9                zps_eAplZdoStartStack
+                0x000000000008f2d1                eStartRouter.17211
+                0x000000000008f3a0                vPostApsmeDcfmInd.8174
+ .text          0x000000000008f824      0xb70 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans18.ltrans.o
+                0x000000000008f824                vStartScanTimerExpiry.40714
+                0x000000000008f860                ZPS_vNwkHandleMcpsVsDcfmInd
+ *fill*         0x0000000000090394        0x0 00
+ .text          0x0000000000090394      0xa84 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans19.ltrans.o
+                0x0000000000090394                vPostNldeDcfmInd.8188
+ .text          0x0000000000090e18      0x937 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans20.ltrans.o
+                0x0000000000090e18                os_vzps_taskZPS
+                0x0000000000090fdc                zps_eAplZdpApsdeReqInternal
+                0x00000000000913f5                zps_bAplZdoDefaultServer
+                0x00000000000916cb                zps_eZdpMgmtLeaveResponse
+                0x00000000000916ec                zps_eZdpMgmtPermitJoiningResponse
+                0x000000000009170d                zps_eAplZdpBindResponse
+                0x000000000009172e                zps_eZdpUnbindResponse
+ .text          0x000000000009174f      0xb83 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans21.ltrans.o
+                0x000000000009174f                vSendNetworkReport.67940
+                0x0000000000091829                zps_psNwkInitiateRouteDiscovery
+                0x0000000000091adf                zps_psSendFrm
+                0x0000000000091dab                zps_eNwkHandleSceRouteRecord
+                0x0000000000091e5a                zps_psNwkSendRejoinReqCmd.constprop.12
+                0x0000000000091eb5                zps_u8NwkHandleRejoinReq
+                0x0000000000091f6d                vContinueRejoin.79429
+                0x0000000000092027                zps_psSendNetworkStatusCmd
+                0x0000000000092094                zps_vProcessLocalAddrConflict
+                0x0000000000092162                zps_eDefaultDataDcfm
+ *fill*         0x00000000000922d2        0x2 00
+ .text          0x00000000000922d4      0xa60 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans22.ltrans.o
+                0x000000000009248c                vSendMlmeCommStatusFromTxFrame
+                0x00000000000924e2                MAC_vHandleMlmeVsReqRsp.constprop.80
+                0x0000000000092a26                vScanBeaconReceived
+                0x0000000000092a71                vRunningRxCallback
+ .text          0x0000000000092d34      0x97a C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans23.ltrans.o
+                0x0000000000092d34                zps_eZdpActiveEpResponse
+                0x0000000000092dca                zps_eZdpMatchDescResponse
+                0x0000000000092e60                zps_eZdpSystemServerDiscoveryResponse
+                0x0000000000092ecf                zps_eAplZdpMgmtLqiResponse
+                0x0000000000092fb7                zps_eAplZdpMgmtRtgResponse
+                0x000000000009307e                zps_eZdpMgmtNwkUpdateNotifyResponse
+                0x0000000000093238                zps_bAplZdoZdoClient
+ .text          0x00000000000936ae      0x996 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans24.ltrans.o
+                0x000000000009372c                zps_bAplZdoMgmtLeaveServer
+                0x0000000000093877                zps_vAplAfPostEvent
+                0x0000000000093c7a                vPostApsdeDcfmInd.8181
+                0x0000000000093e83                zps_vHandleApsdeDataFragIndNotSupported
+                0x0000000000093f4b                zps_eAplZdoNlmePermitJoiningWrapper
+                0x0000000000093f73                zps_bAplZdoPermitJoiningServer
+ .text          0x0000000000094044      0xaa8 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans25.ltrans.o
+                0x0000000000094044                zps_vNwkMcpsMgrPost
+                0x000000000009414c                zps_eNwkHandleSceRouteRequest
+                0x0000000000094463                zps_eNwkHandleSceRouteReply
+                0x000000000009474b                zps_vNwkHandleCmeLeaveReq
+                0x0000000000094819                zps_eNwkHandleSceLeave
+                0x00000000000949a3                zps_eNwkHandleSdeActvDcfmData
+                0x0000000000094a7a                vMcpsMgrTimeoutExpiry
+ .text          0x0000000000094aec      0xb09 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans26.ltrans.o
+                0x0000000000094bff                os_bDummyMemberCheck.5007
+                0x0000000000094c04                os_vDefaultErrorHook.5003
+                0x0000000000094c07                os_bStrictCheck.1358
+                0x0000000000094d5e                pdum_u16ReadNBO
+                0x0000000000094ebf                PDUM_u16SizeNBO
+                0x0000000000094f1d                PDUM_u16APduInstanceWriteStrNBO
+                0x000000000009509c                PDUM_u16APduInstanceReadNBO
+                0x00000000000950e7                PDUM_u16APduInstanceWriteNBO
+                0x0000000000095151                PDUM_eAPduInstanceSetPayloadSize
+                0x0000000000095179                PDUM_eNPduWriteDataFromBuffer
+                0x00000000000951d3                PDUM_eNPduWriteDataToBuffer
+                0x0000000000095231                PDUM_eNPduWriteFromBuffer
+                0x000000000009525a                PDUM_eNPduDescend
+                0x0000000000095280                PDUM_eNPduAscend
+                0x00000000000952a6                PDUM_eNPduClaimData
+                0x0000000000095313                PDUM_eNPduAppendDataNBO
+                0x0000000000095370                PDUM_eNPduClaimHeader
+                0x0000000000095393                PDUM_eNPduReadHeaderNBO
+                0x00000000000953e6                PDUM_eNPduPrependHeaderNBO
+                0x0000000000095441                PDUM_eNPduInitDescending
+                0x000000000009545c                eExpireSWTimer.5016
+                0x00000000000954c7                vEnterErrorHook.4999
+                0x00000000000954ee                OS_eCollectMessage
+                0x00000000000955b3                OS_eGetSWTimerStatus
+ *fill*         0x00000000000955f5        0x3 00
+ .text          0x00000000000955f8      0x6e0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans27.ltrans.o
+                0x00000000000955f8                vPostNlmeDcfmInd.8167
+ .text          0x0000000000095cd8      0x703 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans28.ltrans.o
+                0x0000000000095ebc                ZPS_vNwkHandleNlmeReqRsp
+                0x0000000000095f39                zps_bAplZdoDeviceAnnceServer
+                0x000000000009627f                vChangeChannelTimerExpiry.40710
+                0x00000000000962ee                eLeaveReset.81592
+                0x0000000000096364                eLeaveDataDcfmLocalLeave.81602
+ .text          0x00000000000963db      0xa3d C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans29.ltrans.o
+                0x0000000000096715                zps_eNwkHandleSmeAssocInd
+                0x0000000000096737                zps_eNwkHandleSceRejnRequest
+                0x0000000000096835                zps_eNwkHandleSmeOrphanInd
+                0x000000000009689d                zps_vNwkHandleCmeActvStartRouterReq
+                0x0000000000096934                zps_vProcessChildAddrConflict
+                0x00000000000969f7                zps_sNwkStart
+                0x0000000000096a96                vHandleNwkLocalUpdateAfterBcast.67957
+                0x0000000000096af6                vHandleNwkRemoteUpdateAfterBcast.67948
+                0x0000000000096b4a                eSmeAcScScanDcfm.77593
+ *fill*         0x0000000000096e18        0x0 00
+ .text          0x0000000000096e18      0x6cc C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans30.ltrans.o
+                0x0000000000096e18                vMiniMac_MlmeCallback
+                0x0000000000097103                bBeaconNotify.85765
+                0x0000000000097240                vPostDcfm.85772
+                0x00000000000972af                vScanNextChannel.85778
+                0x0000000000097461                vMiniMacPoll_CheckPollResponse
+                0x0000000000097498                ePollReqSent.85922
+ .text          0x00000000000974e4      0x418 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans31.ltrans.o
+                0x00000000000974e4                os_vAPP_taskRouter
+ .text          0x00000000000978fc       0x25 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                0x00000000000978fc                memcmp
+ .text          0x0000000000097921       0x19 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .text          0x000000000009793a       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                0x000000000009793a                memset
+ .text          0x000000000009794c       0x1f c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcat.o)
+                0x000000000009794c                strcat
+ .text          0x000000000009796b       0x25 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+                0x000000000009796b                strcmp
+ .text          0x0000000000097990       0x29 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strrchr.o)
+                0x0000000000097990                strrchr
+ .text          0x00000000000979b9       0x1c c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+                0x00000000000979b9                strchr
+ *fill*         0x00000000000979d5        0x3 00
+ .text          0x00000000000979d8      0x204 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                0x00000000000979d8                __udivsi3
+ .text          0x0000000000097bdc      0x1b0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                0x0000000000097bdc                __umodsi3
+ .text          0x0000000000097d8c       0x24 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+                0x0000000000097d8c                __modsi3
+ .text          0x0000000000097db0      0x350 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                0x0000000000097db0                __udivdi3
+ *fill*         0x0000000000098100        0x0 00
+ .text          0x0000000000098100      0x168 os_irq.o
+                0x0000000000098100                os_ExternalException_W
+                0x0000000000098144                os_PIC_ChannelPriorities
+                0x0000000000098154                os_OSMIUM_HwVectTable
+                0x0000000000098190                os_PIC_SwVectTable
+ .text          0x0000000000098268       0x29 os_irq_alignment.o
+                0x0000000000098268                IRQ_Alignment
+ .text          0x0000000000098291       0x29 os_irq_buserror.o
+                0x0000000000098291                IRQ_BusError
+ .text          0x00000000000982ba       0x29 os_irq_illegalinstruction.o
+                0x00000000000982ba                IRQ_IllegalInstruction
+ .text          0x00000000000982e3       0x29 os_irq_stackoverflowexception.o
+                0x00000000000982e3                IRQ_StackOverflowException
+ .text          0x000000000009830c       0x29 os_irq_unimplementedmodule.o
+                0x000000000009830c                IRQ_UnimplementedModule
+ *fill*         0x0000000000098335        0x3 00
+ .text          0x0000000000098338       0xc0 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libOS_JN516x.a(os_contirq_JN516x.o)
+                0x0000000000098338                os_ExternalException_R
+                0x0000000000098368                os_CFunc_W
+                0x00000000000983b8                os_UnclaimedException_W
+                0x00000000000983d8                os_UnclaimedInterrupt_W
+ .text          0x00000000000983f8       0x48 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libPWRM_JN516x.a(pwrm_setjmp_JN516x.o)
+                0x00000000000983f8                setjmp
+                0x000000000009841c                PWRM_longjmp
+ .text          0x0000000000098440       0x27 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+                0x0000000000098440                vAHI_InterruptSetPriority
+                0x000000000009845e                vAHI_InterruptSetActivePriorityLevel
  .text.vMicroSyscall
-                0x000000000009845f       0x17 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
-                0x000000000009845f                vMicroSyscall
- .text          0x0000000000098476        0x0 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libOS_JN516x.a(os_version_lc.o)
-                0x0000000000098476                OS_Version_1v2
- .text          0x0000000000098476        0x0 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_version_lc.o)
-                0x0000000000098476                ZPS_APL_Version_2v0
- .text          0x0000000000098476        0x0 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_version_lc.o)
-                0x0000000000098476                ZPS_NWK_Version_2v0
-                0x0000000000098476                _flash_end = ABSOLUTE (.)
+                0x0000000000098467       0x17 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                0x0000000000098467                vMicroSyscall
+ .text          0x000000000009847e        0x0 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libOS_JN516x.a(os_version_lc.o)
+                0x000000000009847e                OS_Version_1v2
+ .text          0x000000000009847e        0x0 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_version_lc.o)
+                0x000000000009847e                ZPS_APL_Version_2v0
+ .text          0x000000000009847e        0x0 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_version_lc.o)
+                0x000000000009847e                ZPS_NWK_Version_2v0
+                0x000000000009847e                _flash_end = ABSOLUTE (.)
 
-.rela.dyn       0x0000000000098478        0x0
+.rela.dyn       0x0000000000098480        0x0
  .rela.text     0x0000000000000000        0x0 os_irq.o
  .rela.data     0x0000000000000000        0x0 os_irq.o
  .rela.rodata   0x0000000000000000        0x0 os_irq.o
                 0x000000000400004c                . = ORIGIN (ram)
 
-.data           0x000000000400004c      0x730 load address 0x0000000000098478
+.data           0x000000000400004c      0x730 load address 0x0000000000098480
                 0x000000000400004c                _ram_data_start = ABSOLUTE (.)
  *(.data*)
- .data          0x000000000400004c        0x1 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans0.ltrans.o
+ .data          0x000000000400004c        0x1 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans0.ltrans.o
                 0x000000000400004c                u8MiniMacConfig_MaxConcurrentAssocResponses
  *fill*         0x000000000400004d        0x3 00
- .data          0x0000000004000050        0x4 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans1.ltrans.o
+ .data          0x0000000004000050        0x4 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans1.ltrans.o
                 0x0000000004000050                u32HeapStart
- .data          0x0000000004000054        0x8 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans4.ltrans.o
+ .data          0x0000000004000054        0x8 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans4.ltrans.o
                 0x0000000004000054                bCanLoopback.10983
- .data          0x000000000400005c        0x1 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans5.ltrans.o
+ .data          0x000000000400005c        0x1 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans5.ltrans.o
  *fill*         0x000000000400005d        0x3 00
- .data          0x0000000004000060      0x5e0 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans12.ltrans.o
+ .data          0x0000000004000060      0x5e0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans13.ltrans.o
                 0x0000000004000060                os_Mutex_mutexMAC
                 0x0000000004000068                os_Mutex_mutexZPS
                 0x0000000004000070                s_sApl.2826
@@ -1430,13 +1432,13 @@ LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/
                 0x00000000040002e8                u8AhiBaudRate.65103
                 0x00000000040002ec                s_prbMemberCheck.5123
                 0x00000000040002f0                s_prvErrorHook.5121
- .data          0x0000000004000640        0x2 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans17.ltrans.o
- .data          0x0000000004000642        0x1 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans23.ltrans.o
+ .data          0x0000000004000640        0x2 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans16.ltrans.o
+ .data          0x0000000004000642        0x1 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans20.ltrans.o
  *fill*         0x0000000004000643        0x1 00
- .data          0x0000000004000644      0x11c C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans27.ltrans.o
+ .data          0x0000000004000644      0x11c C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans26.ltrans.o
                 0x0000000004000644                s_asapduZCLInstances
                 0x0000000004000734                s_asapduZDPInstances
- .data          0x0000000004000760        0x1 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans31.ltrans.o
+ .data          0x0000000004000760        0x1 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans31.ltrans.o
  *fill*         0x0000000004000761        0x3 00
  .data.s_asAPduPool
                 0x0000000004000764       0x18 pdum_apdu.o
@@ -1447,10 +1449,10 @@ LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/
                 0x000000000400077c                . = ALIGN (0x4)
                 0x000000000400077c                _ram_data_end = ABSOLUTE (.)
 
-.bss            0x000000000400077c     0x2f3c load address 0x0000000000098ba8
+.bss            0x000000000400077c     0x2d88 load address 0x0000000000098bb0
                 0x000000000400077c                _bss_start = ABSOLUTE (.)
  *(.bss*)
- .bss           0x000000000400077c      0xbe4 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans0.ltrans.o
+ .bss           0x000000000400077c      0xbe4 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans0.ltrans.o
                 0x000000000400077c                psNextWake.5194
                 0x0000000004000780                s_bWakeTimerActive.5195
                 0x0000000004000781                s_ePowerMode.5196
@@ -1480,119 +1482,116 @@ LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/
                 0x00000000040007dc                u8MiniMac_RunTimeOptions
                 0x00000000040007e0                psFreeMsgListHead
                 0x00000000040007e4                psActiveMsgListHead
- .bss           0x0000000004001360        0xc C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans1.ltrans.o
- .bss           0x000000000400136c        0x1 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans2.ltrans.o
+ .bss           0x0000000004001360        0xc C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans1.ltrans.o
+ .bss           0x000000000400136c        0x1 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans2.ltrans.o
                 0x000000000400136c                eMMacModuleType
  .bss.initinboot
-                0x000000000400136d        0x1 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans2.ltrans.o
- .bss           0x000000000400136e        0x2 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans3.ltrans.o
- .bss           0x0000000004001370       0x34 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans4.ltrans.o
- .bss           0x00000000040013a4        0x8 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans5.ltrans.o
- .bss           0x00000000040013ac       0x34 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans6.ltrans.o
- .bss           0x00000000040013e0        0x8 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans8.ltrans.o
- .bss           0x00000000040013e8        0x1 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans9.ltrans.o
-                0x00000000040013e8                u8ReplyRadius.73663
- *fill*         0x00000000040013e9        0x7 00
- .bss           0x00000000040013f0       0x48 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans10.ltrans.o
- .bss           0x0000000004001438       0x8c C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans11.ltrans.o
-                0x0000000004001438                sScanAttemptTimer
-                0x0000000004001454                psTimerServerList
-                0x0000000004001458                aprTimerCallback
-                0x0000000004001474                au32TimerCounter
-                0x0000000004001490                sMiniMacInternal
-                0x00000000040014bc                s_psVsMcpsDcfmInd.24040
-                0x00000000040014c0                s_psMacDcfmInd.24039
- *fill*         0x00000000040014c4        0xc 00
- .bss           0x00000000040014d0     0x1790 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans12.ltrans.o
-                0x00000000040014d0                s_sDefaultServerContext.2883
-                0x00000000040014d8                s_sMgmtRtgServerContext.2823
-                0x00000000040014e0                s_sPermitJoiningServerContext.2824
-                0x00000000040014e8                s_sMgmtNWKUpdateServerContext.2825
-                0x0000000004001528                s_sMgmtLeaveServerContext.2882
-                0x0000000004001550                s_sMgmtLqiServerContext.2881
-                0x0000000004001558                s_sSimpleDescServerContext.2880
-                0x0000000004001560                s_sMatchDescServerContext.2879
-                0x0000000004001568                s_sPowerDescServerContext.2878
-                0x0000000004001570                s_sNodeDescServerContext.2877
-                0x0000000004001578                s_sSystemServerDiscoveryServerContext.2876
-                0x0000000004001580                s_sIeeeAddrServerContext.2875
-                0x0000000004001588                s_sNwkAddrServerContext.2874
-                0x0000000004001590                s_sActiveEpServerContext.2873
-                0x0000000004001598                s_sDeviceAnnceServerContext.2872
-                0x0000000004001598                s_sZdoClientContext.2871
-                0x00000000040015a0                bDefaultServerIgnoreHandleMgmtUpdate
-                0x00000000040015a4                s_u32LastExpiredTime.3025
-                0x00000000040015a8                s_u32CompareTime.3024
-                0x00000000040015ac                UartCommandNumber
-                0x00000000040015b0                UartPacketData
-                0x0000000004001808                UartCommandPos
-                0x000000000400180c                s_prvCurrentISR.5124
-                0x0000000004001810                vFlushFn.65047
-                0x0000000004001814                vPutchFn.65042
-                0x0000000004001818                u8AhiUart.65102
-                0x000000000400181c                s_u32CurrentPriorityMask.5116
-                0x0000000004001820                s_u8OSLevelIPL.5120
-                0x0000000004001824                s_asTasks.5119
-                0x0000000004001828                s_u32PendingQueue.5118
-                0x000000000400182c                pwrm_CPUContext
- .bss           0x0000000004002c60        0x1 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans13.ltrans.o
-                0x0000000004002c60                u8ScanBeaconsSeen.88976
- *fill*         0x0000000004002c61        0x3 00
- .bss           0x0000000004002c64        0x4 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans14.ltrans.o
- .bss           0x0000000004002c68        0x1 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans15.ltrans.o
-                0x0000000004002c68                bIgnoreBroadcast
- .bss           0x0000000004002c69        0x1 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans16.ltrans.o
- *fill*         0x0000000004002c6a        0x2 00
- .bss           0x0000000004002c6c       0x14 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans17.ltrans.o
-                0x0000000004002c6c                s_psCurrentTask.5117
- .bss           0x0000000004002c80       0x24 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans18.ltrans.o
-                0x0000000004002c80                apvAplPdmRecordsAddress
-                0x0000000004002c98                au16AplPdmRecordsSize
- .bss           0x0000000004002ca4        0x8 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans19.ltrans.o
- .bss           0x0000000004002cac        0x4 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans21.ltrans.o
-                0x0000000004002cac                bCheckChild
- .bss           0x0000000004002cb0        0x8 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans23.ltrans.o
-                0x0000000004002cb0                u32DataQueueCount
-                0x0000000004002cb4                s_u16ActivityCounter
- .bss           0x0000000004002cb8        0xc C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans24.ltrans.o
-                0x0000000004002cb8                a16NwkPdmRecordSizes
- .bss           0x0000000004002cc4       0x9c C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans25.ltrans.o
-                0x0000000004002cc4                sMiniMacPib
- .bss           0x0000000004002d60      0x904 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans27.ltrans.o
- .bss           0x0000000004003664        0x8 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans29.ltrans.o
-                0x0000000004003664                sThisDeviceMacAddr
- .bss           0x000000000400366c        0x8 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans30.ltrans.o
-                0x000000000400366c                sMiniMacPhyPib
- .bss           0x0000000004003674        0x1 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans31.ltrans.o
-                0x0000000004003674                s_eDeviceState.3661
- *fill*         0x0000000004003675        0x3 00
+                0x000000000400136d        0x1 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans2.ltrans.o
+ .bss           0x000000000400136e        0x2 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans3.ltrans.o
+ .bss           0x0000000004001370       0x34 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans4.ltrans.o
+ .bss           0x00000000040013a4        0x8 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans5.ltrans.o
+ .bss           0x00000000040013ac       0x34 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans6.ltrans.o
+ .bss           0x00000000040013e0        0x8 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans7.ltrans.o
+ .bss           0x00000000040013e8       0x48 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans8.ltrans.o
+ .bss           0x0000000004001430       0x28 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans9.ltrans.o
+                0x0000000004001430                apvAplPdmRecordsAddress
+                0x0000000004001448                au16AplPdmRecordsSize
+ .bss           0x0000000004001458        0x1 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans10.ltrans.o
+                0x0000000004001458                bIgnoreBroadcast
+ *fill*         0x0000000004001459        0x1 00
+ .bss           0x000000000400145a        0xc C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans12.ltrans.o
+                0x000000000400145a                a16NwkPdmRecordSizes
+ *fill*         0x0000000004001466        0xa 00
+ .bss           0x0000000004001470     0x15e0 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans13.ltrans.o
+                0x0000000004001470                s_sDefaultServerContext.2883
+                0x0000000004001478                s_sMgmtRtgServerContext.2823
+                0x0000000004001480                s_sPermitJoiningServerContext.2824
+                0x0000000004001488                s_sMgmtNWKUpdateServerContext.2825
+                0x00000000040014c8                s_sMgmtLeaveServerContext.2882
+                0x00000000040014f0                s_sMgmtLqiServerContext.2881
+                0x00000000040014f8                s_sSimpleDescServerContext.2880
+                0x0000000004001500                s_sMatchDescServerContext.2879
+                0x0000000004001508                s_sPowerDescServerContext.2878
+                0x0000000004001510                s_sNodeDescServerContext.2877
+                0x0000000004001518                s_sSystemServerDiscoveryServerContext.2876
+                0x0000000004001520                s_sIeeeAddrServerContext.2875
+                0x0000000004001528                s_sNwkAddrServerContext.2874
+                0x0000000004001530                s_sActiveEpServerContext.2873
+                0x0000000004001538                s_sDeviceAnnceServerContext.2872
+                0x0000000004001538                s_sZdoClientContext.2871
+                0x0000000004001540                bDefaultServerIgnoreHandleMgmtUpdate
+                0x0000000004001544                s_u32LastExpiredTime.3025
+                0x0000000004001548                s_u32CompareTime.3024
+                0x000000000400154c                UartCommandNumber
+                0x0000000004001550                UartPacketData
+                0x00000000040015f0                UartCommandPos
+                0x00000000040015f4                s_prvCurrentISR.5124
+                0x00000000040015f8                vFlushFn.65047
+                0x00000000040015fc                vPutchFn.65042
+                0x0000000004001600                u8AhiUart.65102
+                0x0000000004001604                s_u32CurrentPriorityMask.5116
+                0x0000000004001608                s_u8OSLevelIPL.5120
+                0x000000000400160c                s_asTasks.5119
+                0x0000000004001610                s_u32PendingQueue.5118
+                0x0000000004001614                pwrm_CPUContext
+ .bss           0x0000000004002a50        0x8 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans14.ltrans.o
+ .bss           0x0000000004002a58       0x94 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans15.ltrans.o
+                0x0000000004002a58                sScanAttemptTimer
+                0x0000000004002a74                psTimerServerList
+                0x0000000004002a78                aprTimerCallback
+                0x0000000004002a94                au32TimerCounter
+                0x0000000004002ab0                sMiniMacInternal
+                0x0000000004002adc                s_psVsMcpsDcfmInd.24040
+                0x0000000004002ae0                s_psMacDcfmInd.24039
+                0x0000000004002ae4                sMiniMacPhyPib
+ .bss           0x0000000004002aec       0x14 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans16.ltrans.o
+                0x0000000004002aec                s_psCurrentTask.5117
+ .bss           0x0000000004002b00        0x4 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans18.ltrans.o
+                0x0000000004002b00                bCheckChild
+ .bss           0x0000000004002b04        0x8 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans20.ltrans.o
+                0x0000000004002b04                u32DataQueueCount
+                0x0000000004002b08                s_u16ActivityCounter
+ .bss           0x0000000004002b0c        0x1 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans22.ltrans.o
+                0x0000000004002b0c                u8ScanBeaconsSeen.88976
+ *fill*         0x0000000004002b0d        0x3 00
+ .bss           0x0000000004002b10       0x9c C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans23.ltrans.o
+                0x0000000004002b10                sMiniMacPib
+ .bss           0x0000000004002bac        0x1 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans25.ltrans.o
+ *fill*         0x0000000004002bad        0x3 00
+ .bss           0x0000000004002bb0      0x904 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans26.ltrans.o
+ .bss           0x00000000040034b4        0x8 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans28.ltrans.o
+                0x00000000040034b4                sThisDeviceMacAddr
+ .bss           0x00000000040034bc        0x4 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans30.ltrans.o
+ .bss           0x00000000040034c0        0x1 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans31.ltrans.o
+                0x00000000040034c0                s_eDeviceState.3661
+ *fill*         0x00000000040034c1        0x3 00
  .bss.dontinitinboot
-                0x0000000004003678       0x40 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
-                0x0000000004003678                isr_handlers
+                0x00000000040034c4       0x40 C:\NXP\bstudio_nxp\sdk\JN-SW-4168/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                0x00000000040034c4                isr_handlers
  *(.bss.*)
  *(.scommon*)
  *(.scommon.*)
  *(COMMON)
-                0x00000000040036b8                . = ALIGN (0x4)
-                0x00000000040036b8                _bss_end = ABSOLUTE (.)
+                0x0000000004003504                . = ALIGN (0x4)
+                0x0000000004003504                _bss_end = ABSOLUTE (.)
 
-.heap           0x00000000040036b8      0x3e8 load address 0x000000000009bae4
-                0x00000000040036b8                _heap_start = ABSOLUTE (.)
-                0x0000000004003aa0                . = (. + _minimum_heap_size)
- *fill*         0x00000000040036b8      0x3e8 00
+.heap           0x0000000004003504      0x3e8 load address 0x000000000009b938
+                0x0000000004003504                _heap_start = ABSOLUTE (.)
+                0x00000000040038ec                . = (. + _minimum_heap_size)
+ *fill*         0x0000000004003504      0x3e8 00
 
-.stack          0x0000000004007060      0xfa0 load address 0x000000000009f48c
+.stack          0x0000000004007060      0xfa0 load address 0x000000000009f494
                 0x0000000004007060                _heap_end = ABSOLUTE (.)
                 0x0000000004007060                _stack_low_water_mark = ABSOLUTE (.)
                 0x0000000004008000                . = (. + _stack_size)
  *fill*         0x0000000004007060      0xfa0 00
 
-.test           0x0000000000098ba8        0x1
-                0x0000000000098ba8        0x1 BYTE 0xff
-                0x0000000000098478                _flash_data_start = LOADADDR (.data)
+.test           0x0000000000098bb0        0x1
+                0x0000000000098bb0        0x1 BYTE 0xff
+                0x0000000000098480                _flash_data_start = LOADADDR (.data)
                 0x0000000000000730                _ram_data_len = (((_ram_data_end - _ram_data_start) + 0x3) & 0xfffffffffffffffc)
-                0x0000000000002f3c                _bss_len = (((_bss_end - _bss_start) + 0x3) & 0xfffffffffffffffc)
-                0x0000000000018ba8                _image_len = ((((_flash_end - _flash_start) + _ram_data_len) + 0x3) & 0xfffffffffffffffc)
+                0x0000000000002d88                _bss_len = (((_bss_end - _bss_start) + 0x3) & 0xfffffffffffffffc)
+                0x0000000000018bb0                _image_len = ((((_flash_end - _flash_start) + _ram_data_len) + 0x3) & 0xfffffffffffffffc)
                 0x0000000004008000                _ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
                 0x0000000004008000                ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
                 0x0000000001001580                _app_ram_start = 0x1001580
@@ -1601,38 +1600,38 @@ LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/
 OUTPUT(AN1184_ZBP_Router_JN5168.elf elf32-ba)
 
 .comment        0x0000000000000000       0x11
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans0.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans1.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans2.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans3.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans4.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans5.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans6.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans7.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans8.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans9.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans10.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans11.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans12.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans13.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans14.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans15.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans16.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans17.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans18.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans19.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans20.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans21.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans22.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans23.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans24.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans25.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans26.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans27.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans28.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans29.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans30.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\ccbL9qLc.ltrans31.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans15.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans16.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans17.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans18.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans19.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans20.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans21.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans22.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans23.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans24.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans25.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans26.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans27.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans28.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans29.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans30.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\hp8460p\AppData\Local\Temp\cc0cmzLm.ltrans31.ltrans.o
  .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
  .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
  .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)

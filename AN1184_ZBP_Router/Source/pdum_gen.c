@@ -6,7 +6,7 @@
  *
  * COMPONENT:      pdum_gen.c
  *
- * DATE:           Fri Apr  1 11:26:58 2016
+ * DATE:           Sat Apr  2 11:09:46 2016
  *
  * AUTHOR:         Jennic PDU Manager Configuration Tool
  *

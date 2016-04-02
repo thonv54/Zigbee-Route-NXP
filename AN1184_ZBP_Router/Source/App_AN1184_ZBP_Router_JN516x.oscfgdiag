@@ -294,7 +294,7 @@
             </children>
           </children>
           <styles xmi:type="notation:DescriptionStyle" xmi:id="_iI2AEfcqEeWmZtkAZ0kprA" description=""/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iI2AEvcqEeWmZtkAZ0kprA" x="1500" y="392" width="660" height="120"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iI2AEvcqEeWmZtkAZ0kprA" x="1500" y="392" width="660" height="225"/>
         </children>
         <styles xmi:type="notation:SortingStyle" xmi:id="_sKwCYTpJEd6X1p7n01EMHA" sorting="None"/>
         <styles xmi:type="notation:FilteringStyle" xmi:id="_sKwCYjpJEd6X1p7n01EMHA" filtering="None"/>
@@ -750,7 +750,7 @@
       </children>
       <styles xmi:type="notation:RoutingStyle" xmi:id="_fGIwwfbtEeWwxaORstezIw" roundedBendpointsRadius="0" routing="Manual" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false"/>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGIwwvbtEeWwxaORstezIw" points="[-15, 0, 192, -26]$[-76, 0, 131, -26]$[-86, 1, 121, -25]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGIwwvbtEeWwxaORstezIw" points="[-2, 3, 372, -30]$[-160, 3, 214, -30]$[-253, 16, 121, -17]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fGJX0PbtEeWwxaORstezIw" id="(0.007692307692307693,0.5)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fGJX0fbtEeWwxaORstezIw" id="(0.12949640287769784,0.9722222222222222)"/>
     </edges>
